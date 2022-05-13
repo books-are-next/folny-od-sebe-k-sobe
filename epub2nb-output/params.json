@@ -1,0 +1,628 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Od sebe / k sobě",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Jan Folný",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-02-18T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "od_sebe_k_sobe_001.md",
+            "xhtml": "od_sebe_k_sobe_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_002.md",
+            "xhtml": "od_sebe_k_sobe_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_003.md",
+            "xhtml": "od_sebe_k_sobe_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_004.md",
+            "xhtml": "od_sebe_k_sobe_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_005.md",
+            "xhtml": "od_sebe_k_sobe_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_006.md",
+            "xhtml": "od_sebe_k_sobe_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_007.md",
+            "xhtml": "od_sebe_k_sobe_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_008.md",
+            "xhtml": "od_sebe_k_sobe_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_009.md",
+            "xhtml": "od_sebe_k_sobe_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_010.md",
+            "xhtml": "od_sebe_k_sobe_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_011.md",
+            "xhtml": "od_sebe_k_sobe_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_012.md",
+            "xhtml": "od_sebe_k_sobe_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_013.md",
+            "xhtml": "od_sebe_k_sobe_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_014.md",
+            "xhtml": "od_sebe_k_sobe_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_015.md",
+            "xhtml": "od_sebe_k_sobe_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_016.md",
+            "xhtml": "od_sebe_k_sobe_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_017.md",
+            "xhtml": "od_sebe_k_sobe_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_018.md",
+            "xhtml": "od_sebe_k_sobe_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_019.md",
+            "xhtml": "od_sebe_k_sobe_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_020.md",
+            "xhtml": "od_sebe_k_sobe_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_021.md",
+            "xhtml": "od_sebe_k_sobe_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_022.md",
+            "xhtml": "od_sebe_k_sobe_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_023.md",
+            "xhtml": "od_sebe_k_sobe_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_024.md",
+            "xhtml": "od_sebe_k_sobe_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_025.md",
+            "xhtml": "od_sebe_k_sobe_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_026.md",
+            "xhtml": "od_sebe_k_sobe_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_027.md",
+            "xhtml": "od_sebe_k_sobe_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_028.md",
+            "xhtml": "od_sebe_k_sobe_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_029.md",
+            "xhtml": "od_sebe_k_sobe_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "od_sebe_k_sobe_030.md",
+            "xhtml": "od_sebe_k_sobe_030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Od sebe / k sobě",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Jan Folný",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-02-18T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_001.md",
+        "xhtml": "od_sebe_k_sobe_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_002.md",
+        "xhtml": "od_sebe_k_sobe_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_003.md",
+        "xhtml": "od_sebe_k_sobe_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_004.md",
+        "xhtml": "od_sebe_k_sobe_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_005.md",
+        "xhtml": "od_sebe_k_sobe_005.xhtml"
+      },
+      {
+        "titleSuggest": "Od sebe / k sobě",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_006.md",
+        "xhtml": "od_sebe_k_sobe_006.xhtml"
+      },
+      {
+        "titleSuggest": "Prolog",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_007.md",
+        "xhtml": "od_sebe_k_sobe_007.xhtml"
+      },
+      {
+        "titleSuggest": "ČÁST PRVNÍ",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_008.md",
+        "xhtml": "od_sebe_k_sobe_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_009.md",
+        "xhtml": "od_sebe_k_sobe_009.xhtml"
+      },
+      {
+        "titleSuggest": "ČÁST DRUHÁ",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_010.md",
+        "xhtml": "od_sebe_k_sobe_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_011.md",
+        "xhtml": "od_sebe_k_sobe_011.xhtml"
+      },
+      {
+        "titleSuggest": "ČÁST TŘETÍ",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_012.md",
+        "xhtml": "od_sebe_k_sobe_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_013.md",
+        "xhtml": "od_sebe_k_sobe_013.xhtml"
+      },
+      {
+        "titleSuggest": "ČÁST ČTVRTÁ",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_014.md",
+        "xhtml": "od_sebe_k_sobe_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_015.md",
+        "xhtml": "od_sebe_k_sobe_015.xhtml"
+      },
+      {
+        "titleSuggest": "ČÁST PÁTÁ",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_016.md",
+        "xhtml": "od_sebe_k_sobe_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_017.md",
+        "xhtml": "od_sebe_k_sobe_017.xhtml"
+      },
+      {
+        "titleSuggest": "ČÁST ŠESTÁ",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_018.md",
+        "xhtml": "od_sebe_k_sobe_018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_019.md",
+        "xhtml": "od_sebe_k_sobe_019.xhtml"
+      },
+      {
+        "titleSuggest": "ČÁST SEDMÁ",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_020.md",
+        "xhtml": "od_sebe_k_sobe_020.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_021.md",
+        "xhtml": "od_sebe_k_sobe_021.xhtml"
+      },
+      {
+        "titleSuggest": "ČÁST OSMÁ",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_022.md",
+        "xhtml": "od_sebe_k_sobe_022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_023.md",
+        "xhtml": "od_sebe_k_sobe_023.xhtml"
+      },
+      {
+        "titleSuggest": "ČÁST DEVÁTÁ",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_024.md",
+        "xhtml": "od_sebe_k_sobe_024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_025.md",
+        "xhtml": "od_sebe_k_sobe_025.xhtml"
+      },
+      {
+        "titleSuggest": "ČÁST DESÁTÁ",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_026.md",
+        "xhtml": "od_sebe_k_sobe_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_027.md",
+        "xhtml": "od_sebe_k_sobe_027.xhtml"
+      },
+      {
+        "titleSuggest": "Epilog",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_028.md",
+        "xhtml": "od_sebe_k_sobe_028.xhtml"
+      },
+      {
+        "titleSuggest": "Poděkování",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_029.md",
+        "xhtml": "od_sebe_k_sobe_029.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "od_sebe_k_sobe_030.md",
+        "xhtml": "od_sebe_k_sobe_030.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_od_sebe_k_sobe.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_citat",
+      "MLP_citat_autor",
+      "MLP_dopis",
+      "MLP_dopis_bez1radku",
+      "MLP_dopis_podpis",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_text",
+      "MLP_text_-I-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_tiraz_podnazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_titulka_podnazev",
+      "MLP_uroven1_cast",
+      "MLP_uroven1_zvlastni_pripady",
+      "MLP_uroven3_nadpis",
+      "MLP_venovani",
+      "MLP_znak_kurziva_11b",
+      "ParaOverride-1",
+      "ParaOverride-4",
+      "Z-kladn--textový-r-meček",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "folny-od-sebe-k-sobe"
+    },
+    "generatedAt": 1652420695860
+  }
+}

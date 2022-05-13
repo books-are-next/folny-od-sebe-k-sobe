@@ -1,0 +1,674 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Od sebe / k sobě",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Jan Folný",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-02-18T00:00:00.000Z",
+    "published": "2021-02-17T08:35:57.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.2",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/od_sebe_k_sobe_030.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_od_sebe_k_sobe.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Od sebe / k sobě",
+      "href": "OEBPS/Text/od_sebe_k_sobe_006.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "Prolog",
+      "href": "OEBPS/Text/od_sebe_k_sobe_007.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "ČÁST PRVNÍ",
+      "children": [
+        {
+          "title": "Ready for restart",
+          "href": "OEBPS/Text/od_sebe_k_sobe_009.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "Arabské klubko lásky",
+          "href": "OEBPS/Text/od_sebe_k_sobe_009.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "V dublinském hostelu",
+          "href": "OEBPS/Text/od_sebe_k_sobe_009.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Černé louže",
+          "href": "OEBPS/Text/od_sebe_k_sobe_009.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "Střevní trable ve městě pětadvaceti mostů",
+          "href": "OEBPS/Text/od_sebe_k_sobe_009.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "Chlupatý Ital a laciní Slováci",
+          "href": "OEBPS/Text/od_sebe_k_sobe_009.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "Seamus",
+          "href": "OEBPS/Text/od_sebe_k_sobe_009.xhtml#_idParaDest-10"
+        }
+      ],
+      "href": "OEBPS/Text/od_sebe_k_sobe_008.xhtml#_idParaDest-3"
+    },
+    {
+      "title": "ČÁST DRUHÁ",
+      "children": [
+        {
+          "title": "Pracovní rutina",
+          "href": "OEBPS/Text/od_sebe_k_sobe_011.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "O věčným irským fakování",
+          "href": "OEBPS/Text/od_sebe_k_sobe_011.xhtml#_idParaDest-13"
+        },
+        {
+          "title": "Divný sen",
+          "href": "OEBPS/Text/od_sebe_k_sobe_011.xhtml#_idParaDest-14"
+        },
+        {
+          "title": "Alessandro z fitness centra",
+          "href": "OEBPS/Text/od_sebe_k_sobe_011.xhtml#_idParaDest-15"
+        },
+        {
+          "title": "Prsty – to mě na práci baví",
+          "href": "OEBPS/Text/od_sebe_k_sobe_011.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "Irská fotbalová liga je sexy",
+          "href": "OEBPS/Text/od_sebe_k_sobe_011.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "My Češi v Irsku jsme cool",
+          "href": "OEBPS/Text/od_sebe_k_sobe_011.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "Pozor na chlupatý irský záda!",
+          "href": "OEBPS/Text/od_sebe_k_sobe_011.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "Gay? Hetero? Jen nálepka!",
+          "href": "OEBPS/Text/od_sebe_k_sobe_011.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Někdy je lepší nemluvit v Irsku anglicky",
+          "href": "OEBPS/Text/od_sebe_k_sobe_011.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "Alessandro z fitness centra podruhé (a naposledy)",
+          "href": "OEBPS/Text/od_sebe_k_sobe_011.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "Školní uniformy jsou v Irsku povinné. Naštěstí!",
+          "href": "OEBPS/Text/od_sebe_k_sobe_011.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "Nejošklivější holka v Irsku",
+          "href": "OEBPS/Text/od_sebe_k_sobe_011.xhtml#_idParaDest-24"
+        }
+      ],
+      "href": "OEBPS/Text/od_sebe_k_sobe_010.xhtml#_idParaDest-11"
+    },
+    {
+      "title": "ČÁST TŘETÍ",
+      "children": [
+        {
+          "title": "V noci v Paříži",
+          "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "Heteráci si pořád dávají dárky",
+          "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "Ráno v Barceloně",
+          "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "Medvědi barcelonští",
+          "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "Konflikt s transkou z Almodóvara",
+          "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml#_idParaDest-30"
+        },
+        {
+          "title": "Na pláži",
+          "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml#_idParaDest-31"
+        },
+        {
+          "title": "Opálený zpět v práci",
+          "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "Co se řeší nad pivem za 4,10",
+          "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "Happy Birthday",
+          "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "Spokojená cigareta na balkóně",
+          "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "Co se řeší nad pivem za 4,90",
+          "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml#_idParaDest-36"
+        },
+        {
+          "title": "Den nato",
+          "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml#_idParaDest-37"
+        },
+        {
+          "title": "Halloween",
+          "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml#_idParaDest-38"
+        },
+        {
+          "title": "Co jíst na pustým ostrově",
+          "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml#_idParaDest-39"
+        },
+        {
+          "title": "Internet je svinstvo",
+          "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml#_idParaDest-40"
+        },
+        {
+          "title": "Nad korýtkem s prezidentem",
+          "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml#_idParaDest-41"
+        },
+        {
+          "title": "Na ragby v Limericku",
+          "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml#_idParaDest-42"
+        },
+        {
+          "title": "Byt s výhledem na nejvyšší budovu Irska",
+          "href": "OEBPS/Text/od_sebe_k_sobe_013.xhtml#_idParaDest-43"
+        }
+      ],
+      "href": "OEBPS/Text/od_sebe_k_sobe_012.xhtml#_idParaDest-25"
+    },
+    {
+      "title": "ČÁST ČTVRTÁ",
+      "children": [
+        {
+          "title": "Cestou do československého obchodu",
+          "href": "OEBPS/Text/od_sebe_k_sobe_015.xhtml#_idParaDest-45"
+        },
+        {
+          "title": "Vánoční stromky v době ekonomického úpadku",
+          "href": "OEBPS/Text/od_sebe_k_sobe_015.xhtml#_idParaDest-46"
+        },
+        {
+          "title": "Předvánoční náboženská osvěta",
+          "href": "OEBPS/Text/od_sebe_k_sobe_015.xhtml#_idParaDest-47"
+        },
+        {
+          "title": "Vánoční zaměstnanecká party",
+          "href": "OEBPS/Text/od_sebe_k_sobe_015.xhtml#_idParaDest-48"
+        },
+        {
+          "title": "Cestou na Vánoce domů",
+          "href": "OEBPS/Text/od_sebe_k_sobe_015.xhtml#_idParaDest-49"
+        },
+        {
+          "title": "Na kole s kamarádkou na Andělu",
+          "href": "OEBPS/Text/od_sebe_k_sobe_015.xhtml#_idParaDest-50"
+        },
+        {
+          "title": "Zpět v Irsku – jak na Nový rok, tak po celý rok?",
+          "href": "OEBPS/Text/od_sebe_k_sobe_015.xhtml#_idParaDest-51"
+        },
+        {
+          "title": "Český Ježíšek versus irský Santa",
+          "href": "OEBPS/Text/od_sebe_k_sobe_015.xhtml#_idParaDest-52"
+        },
+        {
+          "title": "Černý pondělí",
+          "href": "OEBPS/Text/od_sebe_k_sobe_015.xhtml#_idParaDest-53"
+        },
+        {
+          "title": "Horší než chřipka",
+          "href": "OEBPS/Text/od_sebe_k_sobe_015.xhtml#_idParaDest-54"
+        },
+        {
+          "title": "Posedlost kulminuje",
+          "href": "OEBPS/Text/od_sebe_k_sobe_015.xhtml#_idParaDest-55"
+        },
+        {
+          "title": "Dopis synovcovi k narozeninám",
+          "href": "OEBPS/Text/od_sebe_k_sobe_015.xhtml#_idParaDest-56"
+        },
+        {
+          "title": "Úsporná pracovní opatření a mentální čistota irskýho zaměstnance",
+          "href": "OEBPS/Text/od_sebe_k_sobe_015.xhtml#_idParaDest-57"
+        },
+        {
+          "title": "Rok v Irsku",
+          "href": "OEBPS/Text/od_sebe_k_sobe_015.xhtml#_idParaDest-58"
+        },
+        {
+          "title": "Pátek třináctýho – výlet do heterosexuálna",
+          "href": "OEBPS/Text/od_sebe_k_sobe_015.xhtml#_idParaDest-59"
+        },
+        {
+          "title": "Svátek svatýho Valentýna",
+          "href": "OEBPS/Text/od_sebe_k_sobe_015.xhtml#_idParaDest-60"
+        },
+        {
+          "title": "Seamus a já – jak to vlastně je",
+          "href": "OEBPS/Text/od_sebe_k_sobe_015.xhtml#_idParaDest-61"
+        }
+      ],
+      "href": "OEBPS/Text/od_sebe_k_sobe_014.xhtml#_idParaDest-44"
+    },
+    {
+      "title": "ČÁST PÁTÁ",
+      "children": [
+        {
+          "title": "Démoni",
+          "href": "OEBPS/Text/od_sebe_k_sobe_017.xhtml#_idParaDest-63"
+        },
+        {
+          "title": "Nový mužný gay svět na obzoru",
+          "href": "OEBPS/Text/od_sebe_k_sobe_017.xhtml#_idParaDest-64"
+        },
+        {
+          "title": "Milan někdy nad ránem na zásadní téma",
+          "href": "OEBPS/Text/od_sebe_k_sobe_017.xhtml#_idParaDest-65"
+        },
+        {
+          "title": "Nejvýznamnější, nejdivočejší, nejdivnější irský den celého roku",
+          "href": "OEBPS/Text/od_sebe_k_sobe_017.xhtml#_idParaDest-66"
+        },
+        {
+          "title": "Irsko není porno velmoc, ale má své hvězdy",
+          "href": "OEBPS/Text/od_sebe_k_sobe_017.xhtml#_idParaDest-67"
+        },
+        {
+          "title": "Morris a jeho honba na irskýho zrzka",
+          "href": "OEBPS/Text/od_sebe_k_sobe_017.xhtml#_idParaDest-68"
+        },
+        {
+          "title": "Reprodukční povinnosti",
+          "href": "OEBPS/Text/od_sebe_k_sobe_017.xhtml#_idParaDest-69"
+        },
+        {
+          "title": "Přerušený holení",
+          "href": "OEBPS/Text/od_sebe_k_sobe_017.xhtml#_idParaDest-70"
+        },
+        {
+          "title": "Irové jsou otužilí",
+          "href": "OEBPS/Text/od_sebe_k_sobe_017.xhtml#_idParaDest-71"
+        },
+        {
+          "title": "Zpátky do kondice",
+          "href": "OEBPS/Text/od_sebe_k_sobe_017.xhtml#_idParaDest-72"
+        },
+        {
+          "title": "Jsem down a do Moskvy nejedu",
+          "href": "OEBPS/Text/od_sebe_k_sobe_017.xhtml#_idParaDest-73"
+        },
+        {
+          "title": "Jarmilo P., díky moc!",
+          "href": "OEBPS/Text/od_sebe_k_sobe_017.xhtml#_idParaDest-74"
+        },
+        {
+          "title": "Seamus mi volá do práce",
+          "href": "OEBPS/Text/od_sebe_k_sobe_017.xhtml#_idParaDest-75"
+        },
+        {
+          "title": "Pohřeb",
+          "href": "OEBPS/Text/od_sebe_k_sobe_017.xhtml#_idParaDest-76"
+        }
+      ],
+      "href": "OEBPS/Text/od_sebe_k_sobe_016.xhtml#_idParaDest-62"
+    },
+    {
+      "title": "ČÁST ŠESTÁ",
+      "children": [
+        {
+          "title": "Nekonečný prodloužený víkend",
+          "href": "OEBPS/Text/od_sebe_k_sobe_019.xhtml#_idParaDest-78"
+        },
+        {
+          "title": "E-mail od synovce",
+          "href": "OEBPS/Text/od_sebe_k_sobe_019.xhtml#_idParaDest-79"
+        },
+        {
+          "title": "Zakládám účet pro dvojčata",
+          "href": "OEBPS/Text/od_sebe_k_sobe_019.xhtml#_idParaDest-80"
+        },
+        {
+          "title": "Jak se bydlí s boyfriendem",
+          "href": "OEBPS/Text/od_sebe_k_sobe_019.xhtml#_idParaDest-81"
+        },
+        {
+          "title": "Konečně boyfriend pro Milana",
+          "href": "OEBPS/Text/od_sebe_k_sobe_019.xhtml#_idParaDest-82"
+        },
+        {
+          "title": "Jak jsem zapřel boyfrienda aneb rozbitá trouba",
+          "href": "OEBPS/Text/od_sebe_k_sobe_019.xhtml#_idParaDest-83"
+        },
+        {
+          "title": "Jak jsem neměl sex se slovanským bratrem",
+          "href": "OEBPS/Text/od_sebe_k_sobe_019.xhtml#_idParaDest-84"
+        },
+        {
+          "title": "Mladičký prostitut",
+          "href": "OEBPS/Text/od_sebe_k_sobe_019.xhtml#_idParaDest-85"
+        },
+        {
+          "title": "Koupíš gulášovku?",
+          "href": "OEBPS/Text/od_sebe_k_sobe_019.xhtml#_idParaDest-86"
+        },
+        {
+          "title": "Další pokušení, tentokrát blond",
+          "href": "OEBPS/Text/od_sebe_k_sobe_019.xhtml#_idParaDest-87"
+        },
+        {
+          "title": "Desetiboj",
+          "href": "OEBPS/Text/od_sebe_k_sobe_019.xhtml#_idParaDest-88"
+        },
+        {
+          "title": "Jak jsme uzavřeli lisabonskou smlouvu",
+          "href": "OEBPS/Text/od_sebe_k_sobe_019.xhtml#_idParaDest-89"
+        }
+      ],
+      "href": "OEBPS/Text/od_sebe_k_sobe_018.xhtml#_idParaDest-77"
+    },
+    {
+      "title": "ČÁST SEDMÁ",
+      "children": [
+        {
+          "title": "O Lisabonu a zdejších lidech",
+          "href": "OEBPS/Text/od_sebe_k_sobe_021.xhtml#_idParaDest-91"
+        },
+        {
+          "title": "Odbytý gay průvodce Lisabonem",
+          "href": "OEBPS/Text/od_sebe_k_sobe_021.xhtml#_idParaDest-92"
+        },
+        {
+          "title": "V Bricabaru",
+          "href": "OEBPS/Text/od_sebe_k_sobe_021.xhtml#_idParaDest-93"
+        },
+        {
+          "title": "Prohlídka města s krásnou průvodkyní",
+          "href": "OEBPS/Text/od_sebe_k_sobe_021.xhtml#_idParaDest-94"
+        },
+        {
+          "title": "Na pláži 17 až 19",
+          "href": "OEBPS/Text/od_sebe_k_sobe_021.xhtml#_idParaDest-95"
+        },
+        {
+          "title": "Konec dovolený, konec vztahu",
+          "href": "OEBPS/Text/od_sebe_k_sobe_021.xhtml#_idParaDest-96"
+        },
+        {
+          "title": "Třídenní aklimatizace s charitativní tečkou",
+          "href": "OEBPS/Text/od_sebe_k_sobe_021.xhtml#_idParaDest-97"
+        }
+      ],
+      "href": "OEBPS/Text/od_sebe_k_sobe_020.xhtml#_idParaDest-90"
+    },
+    {
+      "title": "ČÁST OSMÁ",
+      "children": [
+        {
+          "title": "Gay život a alkohol",
+          "href": "OEBPS/Text/od_sebe_k_sobe_023.xhtml#_idParaDest-99"
+        },
+        {
+          "title": "Král Miroslav",
+          "href": "OEBPS/Text/od_sebe_k_sobe_023.xhtml#_idParaDest-100"
+        },
+        {
+          "title": "Narozeniny",
+          "href": "OEBPS/Text/od_sebe_k_sobe_023.xhtml#_idParaDest-101"
+        },
+        {
+          "title": "Heterácká prohlídka dublinských pamětihodností s homo dohrou",
+          "href": "OEBPS/Text/od_sebe_k_sobe_023.xhtml#_idParaDest-102"
+        },
+        {
+          "title": "Vyhozených osm eur",
+          "href": "OEBPS/Text/od_sebe_k_sobe_023.xhtml#_idParaDest-103"
+        },
+        {
+          "title": "Dejvický setkání v alkoholickým heterochrámu",
+          "href": "OEBPS/Text/od_sebe_k_sobe_023.xhtml#_idParaDest-104"
+        },
+        {
+          "title": "Pauza na oběd bez obědu, zato s řečmi o análním sexu",
+          "href": "OEBPS/Text/od_sebe_k_sobe_023.xhtml#_idParaDest-105"
+        },
+        {
+          "title": "Sex and the City. Cork City",
+          "href": "OEBPS/Text/od_sebe_k_sobe_023.xhtml#_idParaDest-106"
+        },
+        {
+          "title": "Hněte ze mě heteráka",
+          "href": "OEBPS/Text/od_sebe_k_sobe_023.xhtml#_idParaDest-107"
+        }
+      ],
+      "href": "OEBPS/Text/od_sebe_k_sobe_022.xhtml#_idParaDest-98"
+    },
+    {
+      "title": "ČÁST DEVÁTÁ",
+      "children": [
+        {
+          "title": "Na kroužku portugalský poezie",
+          "href": "OEBPS/Text/od_sebe_k_sobe_025.xhtml#_idParaDest-109"
+        },
+        {
+          "title": "Katastrofa v kině",
+          "href": "OEBPS/Text/od_sebe_k_sobe_025.xhtml#_idParaDest-110"
+        },
+        {
+          "title": "Jak jsem v práci bojoval proti gay diskriminaci",
+          "href": "OEBPS/Text/od_sebe_k_sobe_025.xhtml#_idParaDest-111"
+        },
+        {
+          "title": "Co dělám, když vrcholím",
+          "href": "OEBPS/Text/od_sebe_k_sobe_025.xhtml#_idParaDest-112"
+        },
+        {
+          "title": "Bez vody, bez lásky",
+          "href": "OEBPS/Text/od_sebe_k_sobe_025.xhtml#_idParaDest-113"
+        }
+      ],
+      "href": "OEBPS/Text/od_sebe_k_sobe_024.xhtml#_idParaDest-108"
+    },
+    {
+      "title": "ČÁST DESÁTÁ",
+      "children": [
+        {
+          "title": "Moje francouzská záležitost",
+          "href": "OEBPS/Text/od_sebe_k_sobe_027.xhtml#_idParaDest-115"
+        },
+        {
+          "title": "Kluci irští, kluci francouzští",
+          "href": "OEBPS/Text/od_sebe_k_sobe_027.xhtml#_idParaDest-116"
+        },
+        {
+          "title": "Budu čekat, dokud nepřijdeš",
+          "href": "OEBPS/Text/od_sebe_k_sobe_027.xhtml#_idParaDest-117"
+        },
+        {
+          "title": "Konec",
+          "href": "OEBPS/Text/od_sebe_k_sobe_027.xhtml#_idParaDest-118"
+        },
+        {
+          "title": "Od sebe / k sobě",
+          "href": "OEBPS/Text/od_sebe_k_sobe_027.xhtml#_idParaDest-119"
+        },
+        {
+          "title": "Zpátky doma",
+          "href": "OEBPS/Text/od_sebe_k_sobe_027.xhtml#_idParaDest-120"
+        }
+      ],
+      "href": "OEBPS/Text/od_sebe_k_sobe_026.xhtml#_idParaDest-114"
+    },
+    {
+      "title": "Epilog",
+      "href": "OEBPS/Text/od_sebe_k_sobe_028.xhtml#_idParaDest-121"
+    },
+    {
+      "title": "Poděkování",
+      "href": "OEBPS/Text/od_sebe_k_sobe_029.xhtml#_idParaDest-122"
+    }
+  ]
+}

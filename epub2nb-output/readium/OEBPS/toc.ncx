@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Od sebe / k sobě</text>
+  </docTitle>
+  <docAuthor>
+    <text>Jan Folný</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Od sebe / k sobě</text>
+      </navLabel>
+      <content src="Text/od_sebe_k_sobe_006.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Prolog</text>
+      </navLabel>
+      <content src="Text/od_sebe_k_sobe_007.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>ČÁST PRVNÍ</text>
+      </navLabel>
+      <content src="Text/od_sebe_k_sobe_008.xhtml#_idParaDest-3"/>
+      <navPoint id="navpoint4" playOrder="4">
+        <navLabel>
+          <text>Ready for restart</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_009.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navpoint5" playOrder="5">
+        <navLabel>
+          <text>Arabské klubko lásky</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_009.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navpoint6" playOrder="6">
+        <navLabel>
+          <text>V dublinském hostelu</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_009.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navpoint7" playOrder="7">
+        <navLabel>
+          <text>Černé louže</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_009.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navpoint8" playOrder="8">
+        <navLabel>
+          <text>Střevní trable ve městě pětadvaceti mostů</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_009.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navpoint9" playOrder="9">
+        <navLabel>
+          <text>Chlupatý Ital a laciní Slováci</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_009.xhtml#_idParaDest-9"/>
+      </navPoint>
+      <navPoint id="navpoint10" playOrder="10">
+        <navLabel>
+          <text>Seamus</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_009.xhtml#_idParaDest-10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint11" playOrder="11">
+      <navLabel>
+        <text>ČÁST DRUHÁ</text>
+      </navLabel>
+      <content src="Text/od_sebe_k_sobe_010.xhtml#_idParaDest-11"/>
+      <navPoint id="navpoint12" playOrder="12">
+        <navLabel>
+          <text>Pracovní rutina</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_011.xhtml#_idParaDest-12"/>
+      </navPoint>
+      <navPoint id="navpoint13" playOrder="13">
+        <navLabel>
+          <text>O věčným irským fakování</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_011.xhtml#_idParaDest-13"/>
+      </navPoint>
+      <navPoint id="navpoint14" playOrder="14">
+        <navLabel>
+          <text>Divný sen</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_011.xhtml#_idParaDest-14"/>
+      </navPoint>
+      <navPoint id="navpoint15" playOrder="15">
+        <navLabel>
+          <text>Alessandro z fitness centra</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_011.xhtml#_idParaDest-15"/>
+      </navPoint>
+      <navPoint id="navpoint16" playOrder="16">
+        <navLabel>
+          <text>Prsty – to mě na práci baví</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_011.xhtml#_idParaDest-16"/>
+      </navPoint>
+      <navPoint id="navpoint17" playOrder="17">
+        <navLabel>
+          <text>Irská fotbalová liga je sexy</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_011.xhtml#_idParaDest-17"/>
+      </navPoint>
+      <navPoint id="navpoint18" playOrder="18">
+        <navLabel>
+          <text>My Češi v Irsku jsme cool</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_011.xhtml#_idParaDest-18"/>
+      </navPoint>
+      <navPoint id="navpoint19" playOrder="19">
+        <navLabel>
+          <text>Pozor na chlupatý irský záda!</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_011.xhtml#_idParaDest-19"/>
+      </navPoint>
+      <navPoint id="navpoint20" playOrder="20">
+        <navLabel>
+          <text>Gay? Hetero? Jen nálepka!</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_011.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navpoint21" playOrder="21">
+        <navLabel>
+          <text>Někdy je lepší nemluvit v Irsku anglicky</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_011.xhtml#_idParaDest-21"/>
+      </navPoint>
+      <navPoint id="navpoint22" playOrder="22">
+        <navLabel>
+          <text>Alessandro z fitness centra podruhé (a naposledy)</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_011.xhtml#_idParaDest-22"/>
+      </navPoint>
+      <navPoint id="navpoint23" playOrder="23">
+        <navLabel>
+          <text>Školní uniformy jsou v Irsku povinné. Naštěstí!</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_011.xhtml#_idParaDest-23"/>
+      </navPoint>
+      <navPoint id="navpoint24" playOrder="24">
+        <navLabel>
+          <text>Nejošklivější holka v Irsku</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_011.xhtml#_idParaDest-24"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint25" playOrder="25">
+      <navLabel>
+        <text>ČÁST TŘETÍ</text>
+      </navLabel>
+      <content src="Text/od_sebe_k_sobe_012.xhtml#_idParaDest-25"/>
+      <navPoint id="navpoint26" playOrder="26">
+        <navLabel>
+          <text>V noci v Paříži</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_013.xhtml#_idParaDest-26"/>
+      </navPoint>
+      <navPoint id="navpoint27" playOrder="27">
+        <navLabel>
+          <text>Heteráci si pořád dávají dárky</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_013.xhtml#_idParaDest-27"/>
+      </navPoint>
+      <navPoint id="navpoint28" playOrder="28">
+        <navLabel>
+          <text>Ráno v Barceloně</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_013.xhtml#_idParaDest-28"/>
+      </navPoint>
+      <navPoint id="navpoint29" playOrder="29">
+        <navLabel>
+          <text>Medvědi barcelonští</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_013.xhtml#_idParaDest-29"/>
+      </navPoint>
+      <navPoint id="navpoint30" playOrder="30">
+        <navLabel>
+          <text>Konflikt s transkou z Almodóvara</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_013.xhtml#_idParaDest-30"/>
+      </navPoint>
+      <navPoint id="navpoint31" playOrder="31">
+        <navLabel>
+          <text>Na pláži</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_013.xhtml#_idParaDest-31"/>
+      </navPoint>
+      <navPoint id="navpoint32" playOrder="32">
+        <navLabel>
+          <text>Opálený zpět v práci</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_013.xhtml#_idParaDest-32"/>
+      </navPoint>
+      <navPoint id="navpoint33" playOrder="33">
+        <navLabel>
+          <text>Co se řeší nad pivem za 4,10</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_013.xhtml#_idParaDest-33"/>
+      </navPoint>
+      <navPoint id="navpoint34" playOrder="34">
+        <navLabel>
+          <text>Happy Birthday</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_013.xhtml#_idParaDest-34"/>
+      </navPoint>
+      <navPoint id="navpoint35" playOrder="35">
+        <navLabel>
+          <text>Spokojená cigareta na balkóně</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_013.xhtml#_idParaDest-35"/>
+      </navPoint>
+      <navPoint id="navpoint36" playOrder="36">
+        <navLabel>
+          <text>Co se řeší nad pivem za 4,90</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_013.xhtml#_idParaDest-36"/>
+      </navPoint>
+      <navPoint id="navpoint37" playOrder="37">
+        <navLabel>
+          <text>Den nato</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_013.xhtml#_idParaDest-37"/>
+      </navPoint>
+      <navPoint id="navpoint38" playOrder="38">
+        <navLabel>
+          <text>Halloween</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_013.xhtml#_idParaDest-38"/>
+      </navPoint>
+      <navPoint id="navpoint39" playOrder="39">
+        <navLabel>
+          <text>Co jíst na pustým ostrově</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_013.xhtml#_idParaDest-39"/>
+      </navPoint>
+      <navPoint id="navpoint40" playOrder="40">
+        <navLabel>
+          <text>Internet je svinstvo</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_013.xhtml#_idParaDest-40"/>
+      </navPoint>
+      <navPoint id="navpoint41" playOrder="41">
+        <navLabel>
+          <text>Nad korýtkem s prezidentem</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_013.xhtml#_idParaDest-41"/>
+      </navPoint>
+      <navPoint id="navpoint42" playOrder="42">
+        <navLabel>
+          <text>Na ragby v Limericku</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_013.xhtml#_idParaDest-42"/>
+      </navPoint>
+      <navPoint id="navpoint43" playOrder="43">
+        <navLabel>
+          <text>Byt s výhledem na nejvyšší budovu Irska</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_013.xhtml#_idParaDest-43"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint44" playOrder="44">
+      <navLabel>
+        <text>ČÁST ČTVRTÁ</text>
+      </navLabel>
+      <content src="Text/od_sebe_k_sobe_014.xhtml#_idParaDest-44"/>
+      <navPoint id="navpoint45" playOrder="45">
+        <navLabel>
+          <text>Cestou do československého obchodu</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_015.xhtml#_idParaDest-45"/>
+      </navPoint>
+      <navPoint id="navpoint46" playOrder="46">
+        <navLabel>
+          <text>Vánoční stromky v době ekonomického úpadku</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_015.xhtml#_idParaDest-46"/>
+      </navPoint>
+      <navPoint id="navpoint47" playOrder="47">
+        <navLabel>
+          <text>Předvánoční náboženská osvěta</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_015.xhtml#_idParaDest-47"/>
+      </navPoint>
+      <navPoint id="navpoint48" playOrder="48">
+        <navLabel>
+          <text>Vánoční zaměstnanecká party</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_015.xhtml#_idParaDest-48"/>
+      </navPoint>
+      <navPoint id="navpoint49" playOrder="49">
+        <navLabel>
+          <text>Cestou na Vánoce domů</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_015.xhtml#_idParaDest-49"/>
+      </navPoint>
+      <navPoint id="navpoint50" playOrder="50">
+        <navLabel>
+          <text>Na kole s kamarádkou na Andělu</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_015.xhtml#_idParaDest-50"/>
+      </navPoint>
+      <navPoint id="navpoint51" playOrder="51">
+        <navLabel>
+          <text>Zpět v Irsku – jak na Nový rok, tak po celý rok?</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_015.xhtml#_idParaDest-51"/>
+      </navPoint>
+      <navPoint id="navpoint52" playOrder="52">
+        <navLabel>
+          <text>Český Ježíšek versus irský Santa</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_015.xhtml#_idParaDest-52"/>
+      </navPoint>
+      <navPoint id="navpoint53" playOrder="53">
+        <navLabel>
+          <text>Černý pondělí</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_015.xhtml#_idParaDest-53"/>
+      </navPoint>
+      <navPoint id="navpoint54" playOrder="54">
+        <navLabel>
+          <text>Horší než chřipka</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_015.xhtml#_idParaDest-54"/>
+      </navPoint>
+      <navPoint id="navpoint55" playOrder="55">
+        <navLabel>
+          <text>Posedlost kulminuje</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_015.xhtml#_idParaDest-55"/>
+      </navPoint>
+      <navPoint id="navpoint56" playOrder="56">
+        <navLabel>
+          <text>Dopis synovcovi k narozeninám</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_015.xhtml#_idParaDest-56"/>
+      </navPoint>
+      <navPoint id="navpoint57" playOrder="57">
+        <navLabel>
+          <text>Úsporná pracovní opatření a mentální čistota irskýho zaměstnance</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_015.xhtml#_idParaDest-57"/>
+      </navPoint>
+      <navPoint id="navpoint58" playOrder="58">
+        <navLabel>
+          <text>Rok v Irsku</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_015.xhtml#_idParaDest-58"/>
+      </navPoint>
+      <navPoint id="navpoint59" playOrder="59">
+        <navLabel>
+          <text>Pátek třináctýho – výlet do heterosexuálna</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_015.xhtml#_idParaDest-59"/>
+      </navPoint>
+      <navPoint id="navpoint60" playOrder="60">
+        <navLabel>
+          <text>Svátek svatýho Valentýna</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_015.xhtml#_idParaDest-60"/>
+      </navPoint>
+      <navPoint id="navpoint61" playOrder="61">
+        <navLabel>
+          <text>Seamus a já – jak to vlastně je</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_015.xhtml#_idParaDest-61"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint62" playOrder="62">
+      <navLabel>
+        <text>ČÁST PÁTÁ</text>
+      </navLabel>
+      <content src="Text/od_sebe_k_sobe_016.xhtml#_idParaDest-62"/>
+      <navPoint id="navpoint63" playOrder="63">
+        <navLabel>
+          <text>Démoni</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_017.xhtml#_idParaDest-63"/>
+      </navPoint>
+      <navPoint id="navpoint64" playOrder="64">
+        <navLabel>
+          <text>Nový mužný gay svět na obzoru</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_017.xhtml#_idParaDest-64"/>
+      </navPoint>
+      <navPoint id="navpoint65" playOrder="65">
+        <navLabel>
+          <text>Milan někdy nad ránem na zásadní téma</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_017.xhtml#_idParaDest-65"/>
+      </navPoint>
+      <navPoint id="navpoint66" playOrder="66">
+        <navLabel>
+          <text>Nejvýznamnější, nejdivočejší, nejdivnější irský den celého roku</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_017.xhtml#_idParaDest-66"/>
+      </navPoint>
+      <navPoint id="navpoint67" playOrder="67">
+        <navLabel>
+          <text>Irsko není porno velmoc, ale má své hvězdy</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_017.xhtml#_idParaDest-67"/>
+      </navPoint>
+      <navPoint id="navpoint68" playOrder="68">
+        <navLabel>
+          <text>Morris a jeho honba na irskýho zrzka</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_017.xhtml#_idParaDest-68"/>
+      </navPoint>
+      <navPoint id="navpoint69" playOrder="69">
+        <navLabel>
+          <text>Reprodukční povinnosti</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_017.xhtml#_idParaDest-69"/>
+      </navPoint>
+      <navPoint id="navpoint70" playOrder="70">
+        <navLabel>
+          <text>Přerušený holení</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_017.xhtml#_idParaDest-70"/>
+      </navPoint>
+      <navPoint id="navpoint71" playOrder="71">
+        <navLabel>
+          <text>Irové jsou otužilí</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_017.xhtml#_idParaDest-71"/>
+      </navPoint>
+      <navPoint id="navpoint72" playOrder="72">
+        <navLabel>
+          <text>Zpátky do kondice</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_017.xhtml#_idParaDest-72"/>
+      </navPoint>
+      <navPoint id="navpoint73" playOrder="73">
+        <navLabel>
+          <text>Jsem down a do Moskvy nejedu</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_017.xhtml#_idParaDest-73"/>
+      </navPoint>
+      <navPoint id="navpoint74" playOrder="74">
+        <navLabel>
+          <text>Jarmilo P., díky moc!</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_017.xhtml#_idParaDest-74"/>
+      </navPoint>
+      <navPoint id="navpoint75" playOrder="75">
+        <navLabel>
+          <text>Seamus mi volá do práce</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_017.xhtml#_idParaDest-75"/>
+      </navPoint>
+      <navPoint id="navpoint76" playOrder="76">
+        <navLabel>
+          <text>Pohřeb</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_017.xhtml#_idParaDest-76"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint77" playOrder="77">
+      <navLabel>
+        <text>ČÁST ŠESTÁ</text>
+      </navLabel>
+      <content src="Text/od_sebe_k_sobe_018.xhtml#_idParaDest-77"/>
+      <navPoint id="navpoint78" playOrder="78">
+        <navLabel>
+          <text>Nekonečný prodloužený víkend</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_019.xhtml#_idParaDest-78"/>
+      </navPoint>
+      <navPoint id="navpoint79" playOrder="79">
+        <navLabel>
+          <text>E-mail od synovce</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_019.xhtml#_idParaDest-79"/>
+      </navPoint>
+      <navPoint id="navpoint80" playOrder="80">
+        <navLabel>
+          <text>Zakládám účet pro dvojčata</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_019.xhtml#_idParaDest-80"/>
+      </navPoint>
+      <navPoint id="navpoint81" playOrder="81">
+        <navLabel>
+          <text>Jak se bydlí s boyfriendem</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_019.xhtml#_idParaDest-81"/>
+      </navPoint>
+      <navPoint id="navpoint82" playOrder="82">
+        <navLabel>
+          <text>Konečně boyfriend pro Milana</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_019.xhtml#_idParaDest-82"/>
+      </navPoint>
+      <navPoint id="navpoint83" playOrder="83">
+        <navLabel>
+          <text>Jak jsem zapřel boyfrienda aneb rozbitá trouba</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_019.xhtml#_idParaDest-83"/>
+      </navPoint>
+      <navPoint id="navpoint84" playOrder="84">
+        <navLabel>
+          <text>Jak jsem neměl sex se slovanským bratrem</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_019.xhtml#_idParaDest-84"/>
+      </navPoint>
+      <navPoint id="navpoint85" playOrder="85">
+        <navLabel>
+          <text>Mladičký prostitut</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_019.xhtml#_idParaDest-85"/>
+      </navPoint>
+      <navPoint id="navpoint86" playOrder="86">
+        <navLabel>
+          <text>Koupíš gulášovku?</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_019.xhtml#_idParaDest-86"/>
+      </navPoint>
+      <navPoint id="navpoint87" playOrder="87">
+        <navLabel>
+          <text>Další pokušení, tentokrát blond</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_019.xhtml#_idParaDest-87"/>
+      </navPoint>
+      <navPoint id="navpoint88" playOrder="88">
+        <navLabel>
+          <text>Desetiboj</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_019.xhtml#_idParaDest-88"/>
+      </navPoint>
+      <navPoint id="navpoint89" playOrder="89">
+        <navLabel>
+          <text>Jak jsme uzavřeli lisabonskou smlouvu</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_019.xhtml#_idParaDest-89"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint90" playOrder="90">
+      <navLabel>
+        <text>ČÁST SEDMÁ</text>
+      </navLabel>
+      <content src="Text/od_sebe_k_sobe_020.xhtml#_idParaDest-90"/>
+      <navPoint id="navpoint91" playOrder="91">
+        <navLabel>
+          <text>O Lisabonu a zdejších lidech</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_021.xhtml#_idParaDest-91"/>
+      </navPoint>
+      <navPoint id="navpoint92" playOrder="92">
+        <navLabel>
+          <text>Odbytý gay průvodce Lisabonem</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_021.xhtml#_idParaDest-92"/>
+      </navPoint>
+      <navPoint id="navpoint93" playOrder="93">
+        <navLabel>
+          <text>V Bricabaru</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_021.xhtml#_idParaDest-93"/>
+      </navPoint>
+      <navPoint id="navpoint94" playOrder="94">
+        <navLabel>
+          <text>Prohlídka města s krásnou průvodkyní</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_021.xhtml#_idParaDest-94"/>
+      </navPoint>
+      <navPoint id="navpoint95" playOrder="95">
+        <navLabel>
+          <text>Na pláži 17 až 19</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_021.xhtml#_idParaDest-95"/>
+      </navPoint>
+      <navPoint id="navpoint96" playOrder="96">
+        <navLabel>
+          <text>Konec dovolený, konec vztahu</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_021.xhtml#_idParaDest-96"/>
+      </navPoint>
+      <navPoint id="navpoint97" playOrder="97">
+        <navLabel>
+          <text>Třídenní aklimatizace s charitativní tečkou</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_021.xhtml#_idParaDest-97"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint98" playOrder="98">
+      <navLabel>
+        <text>ČÁST OSMÁ</text>
+      </navLabel>
+      <content src="Text/od_sebe_k_sobe_022.xhtml#_idParaDest-98"/>
+      <navPoint id="navpoint99" playOrder="99">
+        <navLabel>
+          <text>Gay život a alkohol</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_023.xhtml#_idParaDest-99"/>
+      </navPoint>
+      <navPoint id="navpoint100" playOrder="100">
+        <navLabel>
+          <text>Král Miroslav</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_023.xhtml#_idParaDest-100"/>
+      </navPoint>
+      <navPoint id="navpoint101" playOrder="101">
+        <navLabel>
+          <text>Narozeniny</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_023.xhtml#_idParaDest-101"/>
+      </navPoint>
+      <navPoint id="navpoint102" playOrder="102">
+        <navLabel>
+          <text>Heterácká prohlídka dublinských pamětihodností s homo dohrou</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_023.xhtml#_idParaDest-102"/>
+      </navPoint>
+      <navPoint id="navpoint103" playOrder="103">
+        <navLabel>
+          <text>Vyhozených osm eur</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_023.xhtml#_idParaDest-103"/>
+      </navPoint>
+      <navPoint id="navpoint104" playOrder="104">
+        <navLabel>
+          <text>Dejvický setkání v alkoholickým heterochrámu</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_023.xhtml#_idParaDest-104"/>
+      </navPoint>
+      <navPoint id="navpoint105" playOrder="105">
+        <navLabel>
+          <text>Pauza na oběd bez obědu, zato s řečmi o análním sexu</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_023.xhtml#_idParaDest-105"/>
+      </navPoint>
+      <navPoint id="navpoint106" playOrder="106">
+        <navLabel>
+          <text>Sex and the City. Cork City</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_023.xhtml#_idParaDest-106"/>
+      </navPoint>
+      <navPoint id="navpoint107" playOrder="107">
+        <navLabel>
+          <text>Hněte ze mě heteráka</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_023.xhtml#_idParaDest-107"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint108" playOrder="108">
+      <navLabel>
+        <text>ČÁST DEVÁTÁ</text>
+      </navLabel>
+      <content src="Text/od_sebe_k_sobe_024.xhtml#_idParaDest-108"/>
+      <navPoint id="navpoint109" playOrder="109">
+        <navLabel>
+          <text>Na kroužku portugalský poezie</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_025.xhtml#_idParaDest-109"/>
+      </navPoint>
+      <navPoint id="navpoint110" playOrder="110">
+        <navLabel>
+          <text>Katastrofa v kině</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_025.xhtml#_idParaDest-110"/>
+      </navPoint>
+      <navPoint id="navpoint111" playOrder="111">
+        <navLabel>
+          <text>Jak jsem v práci bojoval proti gay diskriminaci</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_025.xhtml#_idParaDest-111"/>
+      </navPoint>
+      <navPoint id="navpoint112" playOrder="112">
+        <navLabel>
+          <text>Co dělám, když vrcholím</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_025.xhtml#_idParaDest-112"/>
+      </navPoint>
+      <navPoint id="navpoint113" playOrder="113">
+        <navLabel>
+          <text>Bez vody, bez lásky</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_025.xhtml#_idParaDest-113"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint114" playOrder="114">
+      <navLabel>
+        <text>ČÁST DESÁTÁ</text>
+      </navLabel>
+      <content src="Text/od_sebe_k_sobe_026.xhtml#_idParaDest-114"/>
+      <navPoint id="navpoint115" playOrder="115">
+        <navLabel>
+          <text>Moje francouzská záležitost</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_027.xhtml#_idParaDest-115"/>
+      </navPoint>
+      <navPoint id="navpoint116" playOrder="116">
+        <navLabel>
+          <text>Kluci irští, kluci francouzští</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_027.xhtml#_idParaDest-116"/>
+      </navPoint>
+      <navPoint id="navpoint117" playOrder="117">
+        <navLabel>
+          <text>Budu čekat, dokud nepřijdeš</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_027.xhtml#_idParaDest-117"/>
+      </navPoint>
+      <navPoint id="navpoint118" playOrder="118">
+        <navLabel>
+          <text>Konec</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_027.xhtml#_idParaDest-118"/>
+      </navPoint>
+      <navPoint id="navpoint119" playOrder="119">
+        <navLabel>
+          <text>Od sebe / k sobě</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_027.xhtml#_idParaDest-119"/>
+      </navPoint>
+      <navPoint id="navpoint120" playOrder="120">
+        <navLabel>
+          <text>Zpátky doma</text>
+        </navLabel>
+        <content src="Text/od_sebe_k_sobe_027.xhtml#_idParaDest-120"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint121" playOrder="121">
+      <navLabel>
+        <text>Epilog</text>
+      </navLabel>
+      <content src="Text/od_sebe_k_sobe_028.xhtml#_idParaDest-121"/>
+    </navPoint>
+    <navPoint id="navpoint122" playOrder="122">
+      <navLabel>
+        <text>Poděkování</text>
+      </navLabel>
+      <content src="Text/od_sebe_k_sobe_029.xhtml#_idParaDest-122"/>
+    </navPoint>
+  </navMap>
+</ncx>
