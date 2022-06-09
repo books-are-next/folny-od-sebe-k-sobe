@@ -3,11 +3,9 @@ title: ''
 contentType: prose
 ---
 
-osmý, devátý a desátý měsíc prvního roku
+_osmý, devátý a desátý měsíc prvního roku_
 
 ## V noci v Paříži
-
-  
 
 Do pařížskýho klubu Le Depot jsem vplul krátce po půl druhý v noci. Byl jsem už pěkně kouslej a po drinku, který byl v ceně vstupnýho, jsem byl totálně _shitface_. Ale přitom totálně _hot and sexy_. Aspoň tak jsem se cítil. Seamus měl dorazit kolem třetí. A vzhledem k jeho špatným orientačním schopnostem – bude ten nejnápadnější vchod do gay klubu v celý Paříži hledat určitě aspoň hodinu – mám takový dvě hoďky pro sebe.
 
@@ -35,8 +33,6 @@ Angličan mě nepřestával ohmatávat, evidentně by pokračoval v hrátkách,
 
 ## Heteráci si pořád dávají dárky
 
-  
-
 Pondělní podvečer. Ulice jsou rušný, lidi pospíchají, pravděpodobně z práce domů. V rukou bagety a mobilní telefony.
 
 Sedíme v kavárně Regent na Rue La Fayette. Tady mají nejlepší kávu v celý oblasti Opery. Seamus si čte nějaký časopis, článek o tom, jaký dárky jsou zrovna v módě pro tu a tu příležitost. Zasnoubení – elektronický rámeček na fotky. Narození dítěte – založení spořícího účtu. Nový byt – bicykl pro dva.
@@ -61,8 +57,6 @@ To je jedna z mála smutných věcí na Paříži.
 
 ## Ráno v Barceloně
 
-  
-
 Naše společná dovolená, na který si hrajeme na boyfriendy, pokračuje v Barceloně.
 
 Přesun z Paříže, zabydlení se v bytě na Placa del Palau a vůbec to všechno proběhlo tak rychle, že jsem nemohl takřka vůbec spát (nevěřím na pověry, ale že se ti v místě novýho, třebaže dočasnýho bydliště bude spokojeně bydlet, pokud tam provozuješ první noc sex, uplatňuju zcela vědomě jako nezbytný pravidlo), a tak jsem raději vyplul už v šest ráno z postele a šel se projít na pláž.
@@ -78,8 +72,6 @@ Po několika minutách, už zcela probuzený, se na mě podíval, usmál se a �
 Koupit mlíko.
 
 ## Medvědi barcelonští
-
-  
 
 Co frčí na gay scéně v Paříži nebo v Dublinu, je naprosto mimo v Barceloně. Tady jsou v módě postarší medvědi a neupravení, drsní, zarostlí, _rough_ týpci.
 
@@ -99,8 +91,6 @@ Poprvý vůbec se totiž vedeme společně po ulici za ruce.
 
 ## Konflikt s transkou z Almodóvara
 
-  
-
 Jak jsem řekl, barcelonská gay scéna je hodně dospělácká, skoro až přestárlá.
 
 Sobota, noc, nejrušnější místní gay diskotéka Metro: drsňáci s několikadenním strništěm, v nabouchaných tričkách a s tetováním (to se jim musí nechat: na žádným jiným národu nevypadají vytetovaný ornamenty víc sexy než na Španělech). Ostrá _house music_, všude přítmí, a přestože to není sex klub, na záchodech nad pisoáry jsou malý screeny s video smyčkou: dva výše popsaní tmaví týpci jdou po polní cestě, asi nějaká junácká výprava za poznáním, zničeho nic vytáhnou z kalhot svý přednosti a začnou si navzájem močit na džíny. Vcelku odvážná dekorace toalet.
@@ -117,15 +107,11 @@ A pak až do rozednění sedíme pod sochou Kryštofa Kolumba a objevujeme si 
 
 ## Na pláži
 
-  
-
 Takže úplně nejlepší zážitek z Barcelony: ležíme na pláži a kousek od nás španělský pár. Kluk v bílých plavkách a kluk v modrých plavkách. Tulej se k sobě, hladí se, líbají se jakoby nic. A pak k nim přijde kamarádka, chvíli se s nimi baví, pak se všichni tři smějou. Najednou jí vypadne levá koza z plavek, luxusní šťavnatá záležitost tmavší barvy se ztvrdlou bradavkou. Ten vykroucenější z buziků jí tu nádheru nasype zpět do plavek a v tu chvíli je pro mě vymalováno: raději se otočím a lehám si na břicho, protože obsah mých šortek se minimálně zdvojnásobil. Raději pozoruji bandu mladých německých turistů. Kluci si natírají na svoje panický hrudě opalovací krém. Stejně tak jejich vybledlý kamarádky. Drama v mým rozkroku nepolevuje. Sprintuju do vody.
 
 Velký vlny barcelonskýho přílivu teď skrývají moji nadrženost. Seamus na mě ze břehu oběma rukama mává. Já mu mávám taky, ale obě horní končetiny nabídnout nemůžu: v kypějícím vlnobití se ukájím.
 
 ## Opálený zpět v práci
-
-  
 
 Dovolená je minulostí. Jsem v Irsku.
 
@@ -136,8 +122,6 @@ Všichni mi říkají: „Jé, ty jsi opálenej!“ A pak se ptají, s kým js
 „S kamarádama,“ odpovím okamžitě. Massimo obhroublou gestikulací ruky a obličeje naznačí scénu jak z tvrdýho gay porna. Dává mi jednoznačně najevo, že ví, že lžu.
 
 ## Co se řeší nad pivem za 4,10
-
-  
 
 Chlastáme s Milanem v Botě, místní hospodě pro alternativnější mládež, kde mají nejlevnější a nejodpornější pivko široko daleko.
 
@@ -159,8 +143,6 @@ Ukazuje na jednu příšernou čarodějku temnot, která je po fyzický stránce
 
 ## Happy Birthday
 
-  
-
 Mám narozeniny! Je mi už dvacet pět. Ó, můj bože!
 
 Na to, že o narozkách nejsem s tím, s kým bych chtěl být, ale nemůžu ani pomyslet.
@@ -170,8 +152,6 @@ Jsem s Seamusem.
 Dá mi hodinky Diesel. Fakt se mi líbí. Přesto mu říkám, že jsem chtěl k narozeninám švédskou trojku: on a jeho kamarádka z vejšky Kerrie. Naštval se a odešel už v půl devátý večer. A já si říkám nad okoralým dortem: třeba příští narozeniny…
 
 ## Spokojená cigareta na balkóně
-
-  
 
 Přesto nám to s Seamusem v těchto vlhkých podzimních dnech překvapivě klape. Vidíme se tak třikrát do týdne.
 
@@ -189,8 +169,6 @@ Ještě nikdy u mě nezůstal přes noc.
 
 ## Co se řeší nad pivem za 4,90
 
-  
-
 Celý den jsem prospal, promasturboval a proležel v posteli. Až v osm večer mě Seamus vytáhl do hospody. Je to jedna z mých oblíbených: dnes je plná Španělů a hraje tu nějaký český jazzový band (proboha, Češi!).
 
 Piju jablečný pivo, stojí bez deseti centů bůra, a cítím, že jestli dám víc než tři, budu mít příšernou kocovinu.
@@ -205,13 +183,9 @@ Já jsem už moc opilý na to, aby mě Seamusova spokojenost vyděsila. Tak se j
 
 ## Den nato
 
-  
-
 Překvapení se nekoná: mám příšernou kocovinu.
 
 ## Halloween
-
-  
 
 Halloweenský večer trávím stylově v nejodpornější a nejděsivější hospodě ve městě: Fred Zeppelin. Přestárlí motorkáři, potetovaný lesby a jiný zoufalý existence, který mají Halloween každý den.
 
@@ -228,8 +202,6 @@ Doma si pak asi půl hodiny čistím zuby, abych se zbavil pachuti v hubě. Kou
 Nemám rád Halloween.
 
 ## Co jíst na pustým ostrově
-
-  
 
 Cítím se mizerně. Hryže mě svědomí po včerejší noci mladých nadržených strašidel, a tak organizuju partnerský posthalloweenovský večer pro Seamuse.
 
@@ -256,8 +228,6 @@ Oba jsme se zasmáli. A pak mi došlo, že v imaginární situaci Pustý ostro
 Odešel o dvě hodiny později a pořád mu to slušelo.
 
 ## Internet je svinstvo
-
-  
 
 Internet je perverzní metla populace. Hlavně tý čtyřprocentní.
 
@@ -295,8 +265,6 @@ Co k tomu říct? Mám slabou vůli a kluka z dobře vybavený irský rodiny.
 
 ## Nad korýtkem s prezidentem
 
-  
-
 Já a moje bývalá kolegyně Maria si dáváme snídani v Anglický tržnici. Mezi koblihami a dvojitým moccaccinem řešíme další epizodu našeho minidramatu: škoda že jsi gay, protože se mi líbíš; škoda že jsi tak ošklivá, protože jsi fajn.
 
 Anglická tržnice je zastřešená gregoriánská hala přímo v centru města, na místě pět set let starýho tržiště. Seženete tady všechno od čerstvých ryb přes všemožný druhy ovoce a zeleniny až po ty nejúžasnější plesnivý sýry.
@@ -329,8 +297,6 @@ Rozejdeme se každý na jinou stranu.
 
 ## Na ragby v Limericku
 
-  
-
 Vždycky jsem preferoval fotbal před ragby. Ale po dnešním extra zážitku jsem se stal nadšeným ragbyovým fanouškem.
 
 V Irsku se sice hraje fotbal, který je dost sexy, ale čistě po sportovní stránce je naprosto mizerný. Navíc se musí o pozornost publika dělit právě s ragby a všemi těmi keltskými hrami, který se schovávají pod zkratkou GAA. Řekl bych, že ragby tu je dokonce sport číslo jedna (nepočítám vrcholový chlastání, který tu provozuje polovina populace). Pořád jsem nechápal, co na těch rvačkách o šišatej míč Irové vidí. Až do dneška.
@@ -356,8 +322,6 @@ Stal se ze mě nadšený fanoušek ragby.
 Který se však už do Limericku nesmí vrátit.
 
 ## Byt s výhledem na nejvyšší budovu Irska
-
-  
 
 Poslední dny mám vcelku nabitý.
 

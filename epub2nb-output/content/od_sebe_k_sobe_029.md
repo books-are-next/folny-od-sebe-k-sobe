@@ -3,8 +3,6 @@ title: Poděkování
 contentType: prose
 ---
 
-  
-
 To patří oběma mým rodinám – české a irské. Hlavně Ianovi a jeho bratrům. V podstatě za vše dobré, co mě tam daleko od domova potkalo.
 
 Dále pak přátelům a známým, kteří mi byli při psaní této knihy oporou a inspirací. Především Martinovi, Klaudii, Marušce, Vladimírovi a ostatním „mým“ lidem z Lapps Quay. Omlouvám se jim, jestli jsem do svého příběhu použil něco z jejich životů a nepožádal o svolení.

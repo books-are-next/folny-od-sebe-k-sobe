@@ -5,8 +5,6 @@ contentType: prose
 
 _leden 2010_
 
-  
-
 Sedím v největším pražském gay klubu, usrkávám irskou kávu a koukám na teplý cvrkot kolem. Vystrojení krasavci procházejí kolem mého stolečku někam dolů, kde je prý bar, taneční parket, dokonce i darkroom. Zatím jsem dole nikdy nebyl. Není proč. Přestože si všechny ty zdejší vyšlechtěné hřebečky pečlivě prohlížím, rozhodně nekrujzuju, nevybírám si. Nestojím o žádného z nich. Jen hledám. Toho jednoho. Dělám to tady den co den každý večer. Už třetí týden.
 
 Praha je úžasná, moc se mi tu líbí. Jen je mi tu hrozná zima. Ze začátku jsem byl celý nadšený ze sněhu. Bílé parky, bílé ulice, bílé věže a domy. Jenže teď, skoro po třech týdnech, už mám sněhové nadílky plné zuby, protože sněhu je pořád víc a víc, špatně se v něm chodí a už není bílý, ale šedivý, a dokonce černý.

@@ -3,11 +3,9 @@ title: ''
 contentType: prose
 ---
 
-osmý měsíc druhého roku
+_osmý měsíc druhého roku_
 
 ## O Lisabonu a zdejších lidech
-
-  
 
 Lisabon je netypický hlavní město. Není to obrovská evropská megametropole, cítíte jakousi poklidnou provinčnost smíchanou se snesitelným ruchem. Město je roztroušený na velkým prostoru, za památkami musíte přejíždět z místa na místo. Některý části v centru jsou liduprázdný, některý přehnaně přeplněný. Lisabon je nekonzistentní; město s hluchými místy. Ale proto je zajímavý a neobyčejně svérázný.
 
@@ -22,8 +20,6 @@ Zkrátka namyšlená gay ikona Ronaldo jako by do tohohle kmene nepatřil: tlem�
 Ne že by jim to vadilo.
 
 ## Odbytý gay průvodce Lisabonem
-
-  
 
 Do baru 106, který je jedním z nejrušnějších lisabonských gay klubů, jsme se s Seamusem infiltrovali krátce po půl jedenáctý v noci. V předešlý destinaci jsme se oba posilnili třemi silnými mojity, což zapříčinilo neuvěřitelný zmnohanásobení nejen mých komunikačních schopností v portugalštině (za střízliva jsou na nule), ale hlavně mýho ega jako sexuálního spasitele celýho Pyrenejskýho poloostrova. Už dlouho jsem se necítil tak namistrovaný, naspermovaný, tak neuvěřitelně _cock-sure_ svojí atraktivitou a sex-appealem. Hej, domorodci a vůbec všichni přítomní tady v tomhle baru, pozor! Právě vešel objekt vašich masturbačních snů, nabouchanej Brian Kinney z Dejvic, sexuální král!
 
@@ -75,8 +71,6 @@ Pípne mi mobil, je půlnoc, nový den. A my, zase jako šťastný páreček, v
 
 ## V Bricabaru
 
-  
-
 V tomhle klubu jsou karty rozdaný velmi zřetelně. V přízemí bar – tam se, pokud ještě nejste, zduníte levným alkoholem. První patro, fáze druhá: rozvášnění na tanečním parketě s halucinogenním extatickým technem. Pak železný schody a konečně patro druhé, fáze třetí: uvolnění – darkroom.
 
 Klub se rychle naplňuje, a to většinou lidmi, který jsme už viděli v předešlým podniku. Seamus si dává dole na ex dva drinky, který jsou v ceně vstupenky. Já už ne, alkohol od teď vypouštím, jedu na meziplyn, vím, že noc elektrických limonád by neskončila dobře. A tak cucám nějakou vodu, pozoruju orgie kolem a tvářím se _cool as hell_. A zatímco moje opilost klesá, vytvrdlá nadrženost nikoliv. Naopak. A tak brzy dojdu k darwinovskýmu rozhodnutí, že s přírodou se nedá bojovat.
@@ -94,8 +88,6 @@ A pak kolem nás projde jedna portugalská dvojice, co taky bydlí tady v hote
 O několik hodin později, těsně nad ránem, si to pak u nás na pokoji všichni čtyři rozdáme.
 
 ## Prohlídka města s krásnou průvodkyní
-
-  
 
 Pět minut před jedenáctou dopoledne, v poslední chvíli pro podávání snídaně v hotelu, jsme se s Seamusem sesunuli na židle v hotelový restauraci. Mozkovna mi jede bolestivou a hlučnou _rave music_, údy mám celkově zesláblý jak uschlý rákos a žaludek mi řádí v divokých mexických vlnách. Včerejšek byl silný po všech stránkách.
 
@@ -149,8 +141,6 @@ Asi taky z toho vedra.
 
 ## Na pláži 17 až 19
 
-  
-
 Nejlepší pláže v okolí Lisabonu jsou jednoznačně ty na jih od města v okolí resortu Costa de Caparica. Z lisabonskýho centra tam jste za deset patnáct minut. Z malinkýho a sympaticky nepříliš turisty zdevastovanýho městečka se stejným jménem se dál na jih táhne osmikilometrový pruh příjemných pláží. Čím jižněji vás malý rozkodrcaný vláček veze, tím jsou pláže prázdnější, intimnější. Jsou očíslovaný a celkem je jich dvacet. Od sedmnáctky po devatenáctku jsou nudistický a čtyřprocentní zároveň; tuhle kombinaci bych označil za velmi praktickou. Už druhý den zrovna tady chytáme s boyfriendem na naše bledý irský těla trochu tý přírodní hnědý barvy a zároveň se už několik dní plácáme v neprůstřelný situaci: proboha, Seamusi, co jsem udělal, žes ke mně tak ochladl?
 
 Kolem nás se promenujou postarší odkvetlí exhibicionisti s vyvaleným moudím. Jen tak zevlujou po pláži, nestydatě servírujou svoje genitálie a povislý zadky všem okolo a doufají v zázrak, že někdo mladší a sexy se zvedne a půjde s nimi do nedalekých písčitých dun, které skryté mezi neprostupnými křovinami nabízejí dost intimity pro sbližování. Ale jediní mladí a sexy na týhle pláži jsme my dva s Seamusem. A ani jeden z nás nemá o ty dinosaury zájem. Máme svých starostí dost.
@@ -197,8 +187,6 @@ Teď naopak mlčím já.
 
 ## Konec dovolený, konec vztahu
 
-  
-
 A mlčím celý zbytek naší vypečený dovolený.
 
 Mlčím i na lisabonským letišti, kde čekáme na letadlo, který nás dopraví do Irska. Sedím vedle Seamuse v hlučný hale, chci mu toho tolik říct, ale žádný slova ze mě nejdou. A pak oba slyšíme, že naše letadlo je _ready_. Zvedneme se. Mlčky.
@@ -230,8 +218,6 @@ A poté, ani nevím jak dlouho, jen tak sedím na gauči, naprosto zdrchaný, n
 Nečekaný ticho v mým bytě na mě zcela zřetelně křičí: _Je konec!_
 
 ## Třídenní aklimatizace s charitativní tečkou
-
-  
 
 Hodil jsem se na tři dny marod.
 

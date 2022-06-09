@@ -3,11 +3,9 @@ title: ''
 contentType: prose
 ---
 
-pátý, šestý a sedmý měsíc prvního roku
+_pátý, šestý a sedmý měsíc prvního roku_
 
 ## Pracovní rutina
-
-  
 
 Pyšná padesátnice v brýlích značky Chanel sedící na pobočce naší banky naproti mně konečně přelouskala jméno na mým saku.
 
@@ -26,8 +24,6 @@ Ať už je vzala kdekoliv, rozhodně je nevyhrála v zeměpisným AZ kvízu.
 „Další, prosím,“ řeknu a přede mě se posadí další zákaznice. Tentokrát v brýlích Gucci.
 
 ## O věčným irským fakování
-
-  
 
 Později sedím v přeplněný restauraci s výhledem na corkskou Operu, srkám vodu a čekám na Seamuse. Jako vzorný vnuk šel zas po čase navštívit babičku, co bydlí kus za městem a co se ho při každý návštěvě ptá, zda si už našel nějakou přítelkyni. Přesně v poledne jsme se domluvili na společný oběd v tomhle podniku. Ještě o tom neví, ale chci ho právě dnes a tady jmenovat svým boyfriendem.
 
@@ -65,15 +61,11 @@ Spěšně vchází do restaurace, mává mi a míří ke mně. Jsem moc rád, �
 
 ## Divný sen
 
-  
-
 Zase se mi zdál divný sen z mých špatných irských začátků: chodil jsem se svým životopisem po Dublinu, hledal práci a před hlavní poštou mě najednou přepadlo komando ježků. Obklopili mě, postavili se na zadní a začali mi hrdě prezentovat svoje ježčí minigenitálie a já jim do toho v bílým rubáši prozpěvoval klasiku od Sagvana Tofiho Dávej, ber. Nevím, co by se dělo dál: naštěstí mě mezi druhou slokou a refrénem šlehnul Seamus ze spaní loktem do ksichtu a probudil mě. Poslal jsem ho domů. Sice je mým boyfriendem, ale přece jen tady nebydlí, tak ať si nezvyká. Pak jsem znovu upadl do spánku. Už naštěstí bezesnýho.
 
 Zajímalo by mě, co do toho guinnesse dávají, že z něj člověk v noci takhle magoří.
 
 ## Alessandro z fitness centra
-
-  
 
 Dvakrát týdně chodím do jednoho místního hotelu do fitka a do bazénu. Zarelaxovat, spálit na běžícím pásu čtyři sta kalorií kantýnový stravy a okouknout chlapy v šatnách a ženský v bazénu.
 
@@ -93,8 +85,6 @@ _Schlong_ se mi v šortkách pohupoval víc než jindy.
 
 ## Prsty – to mě na práci baví
 
-  
-
 Jedna z pozitivních věcí na mý práci je, že přicházím do styku s mladými _business_ lidmi. A jejich prsty.
 
 Mladí, metrosexuálně vyšlechtění irští hřebečci v luxusních oblecích a kravatách, ležérně pleskajících o přezku značkovýho pásku, který mužně objímá jejich vymakaný, solárkem rozmazlený boky pod hedvábnou košilí, přicházejí k mýmu stolu a já jim dávám k podpisu list papíru, na který pokládají svý prsty. A to je ten rozhodující moment: prsty mě na chlapech berou nejvíc.
@@ -113,8 +103,6 @@ Už kolikrát se mi stalo, že fešák světový extratřídy mi položil na st�
 
 ## Irská fotbalová liga je sexy
 
-  
-
 Jestli vás český fotbal nebaví (jasně že ne) a anglická liga, jakkoliv je kvalitní, vám přijde asexuálně profesionální, měli byste zaměřit pozornost na irskou nejvyšší fotbalovou soutěž. Přestože není příliš technická, je uhrančivá svou spontánní divokostí. Nemá žádný velký hvězdy, ale o to je vášnivě nepředvídatelnější. Účastní se jí jen deset týmů, takže se ty obličeje a těla naučíte brzy nazpaměť. Většina irských fotbalistů jsou navíc namakaní sexy týpci v kopačkách, co sice neumí ronaldovský parádičky, ale jsou houževnatí. A nestydí se svý spoluhráče povzbudivě poplácat po zadku, obejmout, případně za povedený přímák i políbit. Zkrátka irský fotbal vás zaručeně chytne. Rozhodně vás uspokojí. A to třeba i doslova. Tak jako mě a Seamuse v pátek večer.
 
 Ven se nám nechtělo, alkoholu bylo tenhle týden až až, a tak vyhrála televize u mě doma. Přepínáme kanály. Nic moc zajímavýho, až nakonec vyhraje druhý irský veřejnoprávní program, kde běží fotbal. Na žádným jiným kanálu nelze nalézt pohromadě tolik _hot_ zpocených týpků v trenkách jako tady. Bohemians (ti dublinští, nikoliv vršovičtí) proti Shamrock Rovers.
@@ -131,8 +119,6 @@ Další kolo irský ligy je na programu zase za týden.
 
 ## My Češi v Irsku jsme cool
 
-  
-
 Nikdy jsem nevěřil na nějaký archetypy národních vlastností. Například si nemyslím, že by Němci byli čistotní a pořádní – moje kolegyně lesba Suzanne z Mannheimu je to největší prase v naší kanceláři. Stejně tak, že by Italové byli proslulí milovníci a lamači srdcí – jediné, co kolega Massimo z Turína miluje, je voňavý špek potají vykouřený na zaměstnaneckých toaletách a jediný, co by dokázal zlomit, je národní rekord v počtu stažených megabajtů internetovýho porna za jednu pracovní hodinu.
 
 Ale pravda, která se mým stále ještě čerstvým životem tady v Irsku potvrzuje každý den do skálopevný jistoty, je, že se Češi od Irů obecně vzato dost liší. Jasně že generalizuju, ale i tak jsem si víc než jistý, že Češi v porovnání s Iry jsou úplně jiný živočišný druh.
@@ -148,8 +134,6 @@ Dneska k naší přepážce v práci přišel jeden ukázkový pár. Už od po
 Styděl jsem se za to.
 
 ## Pozor na chlupatý irský záda!
-
-  
 
 Neděle ráno. Kamilka a já se rousáme ve veřejným bazénu a pod záminkou zdraví prospěšných pohybů v chlorovaný vodě hodnotíme vizáž irskýho národa. Jsme nemilosrdní:
 
@@ -207,8 +191,6 @@ Naštěstí nic, nic tam nemá! Ulevilo se mi. Nepříjemný tlak u ža­ludku,
 
 ## Gay? Hetero? Jen nálepka!
 
-  
-
 Je k neuvěření, jak i ti nejheteráčtější týpci, co stojí ve frontě před gay klubem samozřejmě jen náhodou („Sem nevěděl, že to je _poof club_ pro bukvice…“), se během dvou hodin v takovýmhle podniku promění z drsných děvkařů, kteří mají plnou pusu koz, ženskejch prdelí a anglickýho fotbalu, v ty nejvykroucenější a po mužským vousatým objetí nejhladovější královny večera. Sám o tom dost vím.
 
 Jednoho takovýho typickýho případa sledujeme právě teď s Milanem od baru.
@@ -230,8 +212,6 @@ Později, to už jsem doma a zkouším si sám kroutit bradavkami a myslet př
 Na odpověď už jsem se nezmohl: sebemanipulace se ztvrdlými bradavkami mi namísto vrcholu přivodila okamžitý spánek.
 
 ## Někdy je lepší nemluvit v Irsku anglicky
-
-  
 
 Irsko je plný cizinců. Cizinců, co se snaží mluvit anglicky. Přirozeně.
 
@@ -256,8 +236,6 @@ Na podruhý si už dávám na mluvidla pozor, a proto to klapne perfektně: bro
 Někdy je holt lepší tady v Irsku dát před angličtinou přednost starý dobrý prasácký pražštině.
 
 ## Alessandro z fitness centra podruhé (a naposledy)
-
-  
 
 Jsem zase ve fitku.
 
@@ -297,8 +275,6 @@ Doma si pak v zrcadle kontroluju zadek, jestli na něm nemám známky lepry. A�
 
 ## Školní uniformy jsou v Irsku povinné. Naštěstí!
 
-  
-
 Kdybych měl sestavit žebříček věcí, který se mi na Irsku líbí nejvíc, tak hned za kulturou irských pubů, Iry jako takovými a přímořským městečkem Kinsale na jihu země by byly školní uniformy.
 
 Je to radost a oku to lahodí, když kolem třetí čtvrtý odpoledne kráčím rušným centrem města a potkávám hloučky uniformovaný středoškolský mládeže.
@@ -316,8 +292,6 @@ Na to, jak se v našem lokálním gay klubu konala párty školních uniforem. 
 Otázce nerozumím, meteorologickou diskusi jsem neposlouchal. Místo toho jsem myslel na to, jak krásný by bylo, kdybych poslechl rady svých rodičů a šel místo ekonomky studovat na učitele.
 
 ## Nejošklivější holka v Irsku
-
-  
 
 Nemá bělostně severský úsměv ani zářivě vlající vlasy jako éŠvédka Kajsa. Nemá líbivou postavu ani neshazuje v práci prsama papíry se stolu. Je bledá, má křivý zuby, účes z doby irskýho hladomoru, žádný prsa, krátký nohy a navíc trochu kulhá. Moje nová kolegyně, Irka Maria.
 
