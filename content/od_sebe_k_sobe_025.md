@@ -3,11 +3,9 @@ title: ''
 contentType: prose
 ---
 
-desátý měsíc druhého roku
+_desátý měsíc druhého roku_
 
 ## Na kroužku portugalský poezie
-
-  
 
 Dneska mě Viktorka vzala na pravidelný setkání portugalských studentů do stylový dublinský kavárny na Dawson Street, do Café En Seine. Jen tak mě ukázat, jako exota. Pochlubit se sexuálním úlovkem.
 
@@ -48,8 +46,6 @@ Když je konec, ptá se mě, proč jsem to udělal a nutil ji dělat něco, co 
 A než se taky zvednu a dojdu se za ní usmířit, ležím sám v její posteli a přemýšlím, jestli jsem dnes v tý kavárně na WC nakonec nepromarnil příležitost. Jestli jsem neměl do toho zarostlýho španělskýho rastafariána jít. Rozbalit to na něj. Uzavřít s ním sexuálně podbarvený pakt mužství. Mám totiž pocit, že jemu by se hrátky s áčkem možná zamlouvaly.
 
 ## Katastrofa v kině
-
-  
 
 Dneska dopoledne mi přišla esemeska od Tracy, jestli s ní náhodou nechci jít večer do kina.
 
@@ -111,8 +107,6 @@ Domů přijdu úplně zmrzlý, je skoro půlnoc. Volám svojí holce do Dublinu 
 
 ## Jak jsem v práci bojoval proti gay diskriminaci
 
-  
-
 Jako každý pondělí jsem si i dnes odpykával v bance osm hodin za přepážkou zákaznickýho servisu, což jsou v podstatě stížnosti a reklamace především starých lidí, a to nejčastěji na to, že písmenka na složenkách a šecích jsou příliš malý a že bankovní poplatky jsou příliš velký. Dnes jsem byl navíc paralyzován nepříjemně bolestivou kočkou po včerejším celonočním pochlastávání s Milanem, takže jsem očekával nekonečně dlouhý nezáživný muka.
 
 A taky že jo: celý den nespokojený babky s tučnými konty (stejně si jednou jednu takovou vezmu, tu s tím nejtučnějším kontem a nejsličnějším vnukem) a naštvaní farmáři se špinavými obtloustlými prsty. Po každým takovým sedlákovi podrobuju propisovačku, kterou držel ve svých zadělaných prackách, náležitý a adekvátně dlouho trvající koupeli v antibakteriálním gelu, který máme v bance kvůli prasečí chřipce na každým stole. Mimochodem právě tyhle gely, pravděpodobně i díky mýmu zanícenýmu zájmu o hygienu, rychle mizí – Massimo má teorii, že si je já jakožto na naší pobočce proslulá buzna stáčím do PET flašek a pak distribuuju pro ty naše perverzní účely v gayklubech, jak se vyjádřil na poslední pracovní poradě přede všemi kolegy.
@@ -160,8 +154,6 @@ Později v šatnách pro zaměstnance, když se převlíkám z firemního oble
 Venku je zima. Táhne mi na krk a já si říkám, že si zítra musím vzít šálu. A třeba dvě. A třeba si je pěkně módně a po francouzsku vpletu do sebe.
 
 ## Co dělám, když vrcholím
-
-  
 
 Pátek večer. Viktorka a já spalujeme pod peřinou v jejím studentským pokoji veškerou sexuální energii, která se v nás za celý týden, co jsme se neviděli, nashromáždila.
 
@@ -254,8 +246,6 @@ A tak zlehka probouzím Viktorku. Poklepu jí napruženým knobem na záda a p
 Jen si tentokrát dávám větší pozor na pusu.
 
 ## Bez vody, bez lásky
-
-  
 
 Centrum Corku leží mezi severním a jižním ramenem řeky Lee. Můj exkluzivní _loft_ nad městem je vlastně jakýsi maják, jedinečný pozorovací místo přesně uprostřed ostrova.
 

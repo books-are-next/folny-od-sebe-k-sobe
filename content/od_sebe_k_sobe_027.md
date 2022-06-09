@@ -3,11 +3,9 @@ title: ''
 contentType: prose
 ---
 
-jedenáctý měsíc druhého roku
+_jedenáctý měsíc druhého roku_
 
 ## Moje francouzská záležitost
-
-  
 
 V posledních dnech jsem projevil pravou francouzskou nonšalantnost a na prvních dvou rande s Anthonem nebylo nic. Jen spousta řečí. Povětšinou o našich teplých životech. A na konci večera vždy jen pusa. Francouzská, samozřejmě.
 
@@ -36,8 +34,6 @@ S obrovským barelem vody.
 Překvapeně na něj vejrám. A ještě než stačím já nebo on cokoliv říct, knoflík těsných džin v mým rozkroku exploduje.
 
 ## Kluci irští, kluci francouzští
-
-  
 
 „Rozváželi jsme s bráchou barely vody našim prarodičům. Protože voda tady v centru města prej ještě několik dní nepoteče. Tak jsem si myslel, že by se ti jeden taky hodil,“ říká Seamus v mých dveřích.
 
@@ -72,8 +68,6 @@ Později – to už Anthon odešel – zkoumám svoje nahý tělo a zjišťuj
 Nejdřív Anthonovi a pak i Viktorce.
 
 ## Budu čekat, dokud nepřijdeš
-
-  
 
 Jenže po dalším špinavým dni je situace mý osobní hygieny natolik kritická, že porušuju rozhodnutí a celý smradlavý, upadaný a nervózní s osuškou pod ramenem zvoním na dveře svýho ex-boyfrienda v houmlesácký prosbě o sprchu. Otevře mi jeho máma:
 
@@ -141,8 +135,6 @@ Typický, říkám si.
 
 ## Konec
 
-  
-
 Hobluje mě hodně zvostra. Zezadu. Vůbec se mi to nelíbí. Snažím se mu říct, že to takhle nechci. A jestli to vůbec teďka nějak chci, tak bude muset dost ubrat. Zjemnit. Ale vůbec mě neposlouchá a naopak přitvrdil. Je fakt vostrej. Hlavou mi problikne motto kampaně jednoho místního _fag_ magazínu: když to nechcete a nelíbí se vám to, je to _rape_.
 
 Den po nadržený sprše u Seamuse jsem mu poslal esemesku: „Pořád čekám. Třebaže ne v tvý koupelně.“ Ale nic, žádná odpověď. Už víc než týden. A to mě dralo, furt dere. Bez Seamuse není Irsko už dál pro mě.
@@ -201,8 +193,6 @@ KONEC.
 
 ## Od sebe / k sobě
 
-  
-
 S vypětím všech sil jsem zatlačil od sebe do madla střešního okna a to se otevřelo do irský noci. Sedím zkroušeně pod ním a tupě zírám do chladný tmy nad sebou. Jako bych na něco čekal.
 
 A pak – ani nevím za jak dlouho – se to stane: dopadne na mě sněhová vločka.
@@ -226,8 +216,6 @@ Zvedl jsem se, znovu uchopil madlo střešního okna a tentokrát rychlým tahe
 Během příštích deseti minut, prvních deseti minut mýho obnovenýho ozdravenýho života, se na něm vytvořila jemná bílá peřina sněhu.
 
 ## Zpátky doma
-
-  
 
 Autobus odjel, a tak tu stojím.
 

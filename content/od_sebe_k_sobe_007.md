@@ -5,8 +5,6 @@ contentType: prose
 
 _leden 2008_
 
-  
-
 Tyhle situace úplně nesnáším: z malinkatého nedorozumění se jakousi podivně vybublanou naštvaností stane partnerská hádka se vším všudy.
 
 Přesně jako před chvílí. Celý den s Honzou v pohodě lyžujeme, překvapivě nám to jde a dost se u toho bavíme. Je mrazivo a slunečno. Nádherný den. Cítím se s ním hezky a bezpečně.

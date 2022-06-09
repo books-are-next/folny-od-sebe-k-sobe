@@ -3,11 +3,9 @@ title: ''
 contentType: prose
 ---
 
-devátý měsíc druhého roku
+_devátý měsíc druhého roku_
 
 ## Gay život a alkohol
-
-  
 
 Dost často si říkám, co všechny ty zářivý hvězdy gay klubů, ty vykroucený a vymóděný homošelmy noci, co se realizujou takřka výhradně v blyštivých světlech nočních teplopodniků, případně v prchavých momentech vášně v temných zákoutích dvě tři ulice za klubem, dělají přes den. Kudy chodí za bílýho dne? Co vlastně tihle flamboyantní gájíčkové dělají v běžným životě? Jak se vypořádávají s všedními starostmi? Myslím s těmi trapně obyčejnými starostmi, mezi který nepatří pouze dilema, jaký módní doplňky z Topmanu na sebe aplikovat, či nervózní nejistota, zda Cheryl Cole, tahle vysněná sexy _fag hag_ všech teploušů anglicky mluvící Evropy, bude úspěšná i ve svý pěvecký sólo kariéře. Zkrátka kde jsou všichni ti extrémní buzíci za denního světla?
 
@@ -28,8 +26,6 @@ Se sluchátkama na uších, do kterých si donekonečna pouštím nový singl bo
 Jasně, můj týdenní rozpočet to sice kompletně zruinovalo, ale chápu to jako významnou investici do svýho budoucího sexuálního života. A taky do svýho renomé. Vždyť co je v tomhle malým světě irský gay scény důležitější než dobrá pověst?
 
 ## Král Miroslav
-
-  
 
 „Jestli jsi mi přišel vyprávět všechny ty krásný růžový teploušský _love story_, jak vám to s Aidanem klape, jak jste spokojený a šťastný a bude to takhle až na věky, tak se rovnou seber a běž do hajzlu! Protože já se právě rozešel s Seamusem. Ale jestli sis přišel vyslechnout můj smutnej příběh a pomoct mi utopit žal ve flašce vodky, tak jsi tu správně,“ vysypal jsem na Milana nekompromisně místo pozdravu. Stojí v mých dveřích a trpce se usmívá:
 
@@ -81,8 +77,6 @@ Přemýšlím o tom, jestli bych neměl přestat být líný a unavený z pr�
 
 ## Narozeniny
 
-  
-
 Mám narozeniny. Je mi dvacet šest, což v heteráckým světě je ještě jakž takž _okay_, ale v psím světě je to smrt a v gay věku v podstatě důchod. Popravdě: neberu to moc statečně.
 
 Přišlo mi pár esemesek s blahopřáním. Překvapivě víc z Čech než odsud. Tak si říkám, jestli dělám dobře, že zůstávám v Irsku.
@@ -102,8 +96,6 @@ Je jasný, že z tohohle uřvanýho sentimentu lze vinit hlavně můj ode dneš
 Každopádně tohle jsou ty nejhorší narozeniny vůbec.
 
 ## Heterácká prohlídka dublinských pamětihodností s homo dohrou
-
-  
 
 Už druhý týden jezdím každý den odpoledne po práci do Dublinu.
 
@@ -161,8 +153,6 @@ A já musím hned v tuhle nekřesťansky brzkou ranní hodinu čelit rychlýmu
 
 ## Vyhozených osm eur
 
-  
-
 Určitě tu esemeskovou službu nabízenou v televizi znáte. Pošlete objednávací zprávu a za nehorázný peníze vám přijde nějaký obrázek, animace nebo klip. Takovýhle zhovadilosti mě nechávají chladným a říkám si, že na tuhle zlodějinu může přistoupit jenom někdo hloupej. Nebo osamělej.
 
 Ale už delší dobu mě v irský televizi provokovala jedna specifická nabídka: pošlete jim svoje jméno plus jméno vašeho partnera a oni vám obratem strhnou dvě eura a zašlou procentuální vyjádření vaší partnerský budoucnosti. Když překročíte padesát procent, zašlou vám za další dvojku dokonce ideální jméno pro vašeho budoucího potomka.
@@ -184,8 +174,6 @@ Jak jsem řekl, jen pro hloupý nebo osamělý.
 Jsem hloupej. A osamělej.
 
 ## Dejvický setkání v alkoholickým heterochrámu
-
-  
 
 Zase zcela zdeprimovaný a sexuálně zfrustrovaný z toho, že mi moje nová portugalská holka dneska večer nedala a šla na kutě beze mě, stojím lehce přiopilý v nějaký extrémně heterácký nálevně na dublinský Grafton Street.
 
@@ -252,8 +240,6 @@ Dopíjím svůj černý drink a pak si jdu pro další.
 ## Pauza na oběd bez obědu,  
 zato s řečmi o análním sexu
 
-  
-
 Zatímco kolegové vypadli všichni přesně ve dvanáct z banky jako vystřelený šípy na úlevný půlhodinový přemostění ranní a odpoled­ní části směny zvaný pauza na oběd, já stojím venku před vchodem pro zaměstance. V silným větru jen tak v košili a kravatě tady hladově srkám horký cappuccino a poslouchám Milana, kterak mi znovu podává detaily svýho intimního života. Naposledy nad lahví vodky jsem jako morální podpora a zároveň amatérský psychoanalytik zapeklitých teploušských vztahů pod tíhou silnýho alkoholu selhal.
 
 Dnes se ode mne očekává empatičtější výkon: Milan mi ráno poslal do práce textovku, že mi o polední pauze přinese kafe a zároveň opět podá všechna důležitá fakta o svým vztahu s Aidanem. A já že budu nucen podat za střízliva nestranný soud s adekvátní diagnózou situace a návrhem nejlepšího možnýho řešení.
@@ -307,8 +293,6 @@ Zapluju do tepla svýho kanclu. A zatímco spokojeně najedení kolegové mžou
 O vztazích.
 
 ## Sex and the City. Cork City
-
-  
 
 Přestože jsem se přirozeně obával, že moje památkami a irskou historií posedlá holka, se kterou randím už dobrý měsíc a ona mi pořád ještě nedala, bude nadšeně celý ty volný dny běhat po zdejších pamětihodnostech a že vůbec propadne tady u nás na jihu Irska turistický mánii a na případný intimnější momenty mezi námi snad ani nedojde, zariskoval jsem a pozval ji na prodloužený víkend do Corku.
 
@@ -377,8 +361,6 @@ Viktorka toho během prodlouženýho víkendu z Corku sice moc neviděla, jen t
 Pak jsem dojedl ty navlhlý čipsy a uschlý pórek a zbytek irskýho státního svátku strávil koukáním na televizi.
 
 ## Hněte ze mě heteráka
-
-  
 
 „Musí to být nějakej omyl, buziku, ale na zákaznickym na tebe čeká nějaká luxusní opálená klisnička a ptá se po tobě,“ oznamuje mi Massimo a já vím, že si pro mě do práce přišla moje portugalská holka. Přijela za mnou z Dublinu, už potřetí tenhle týden.
 

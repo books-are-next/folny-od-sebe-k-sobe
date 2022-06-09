@@ -3,11 +3,9 @@ title: ''
 contentType: prose
 ---
 
-druhý, třetí a čtvrtý měsíc prvního roku
+_druhý, třetí a čtvrtý měsíc prvního roku_
 
 ## Ready for restart
-
-  
 
 Zelené letadlo s trojlístkem na křídlech dosedlo na přistávací plochu. Trochu to hrklo, ale řekl bych, že to bylo spíš někde hluboko ve mně.
 
@@ -75,8 +73,6 @@ A v ten moment pevně věřím, že bude. A že to zvládnu.
 
 ## Arabské klubko lásky
 
-  
-
 Moje první noc v Irsku je krátká.
 
 Probouzí mě bolest hlavy. Není to však předčasně se dostavivší kocovina, ta udeří později, ale ostrá bolest způsobená rytmickými údery čímsi studeným a srstnatým do mého nebohého obličeje. Šátrám zoufale po vypínači, a než tmu konečně brutálně roztrhne prudké světlo, napadají mě děsivé varianty, co se se mnou vlastně děje: ležím někde před hospodou a jsem obětí fotbalových chuligánů… ne, nejsem v Anglii, jsem v Irsku, dupe po mně stádo horských ovcí!
@@ -109,8 +105,6 @@ Oni oka nezamhouří.
 
 ## V dublinském hostelu
 
-  
-
 Nakonec v tomhle hostelu zůstanu dva týdny, během nichž se marně pokouším najít si v Dublinu slušnou práci. Stanu se obskurní součástí téhle usviněné ubytovny. Turisti sem přicházejí, milují se, opíjejí, kopulují a po několika dnech odcházejí, jen já zůstávám. Taky se opíjím, ale nekopuluji. Ani nemiluji. Už nikdy nebudu. Místo toho brečím, kudy chodím. Brečím ve společných umývárnách, ve společné jídelně. Brečím ve své povislé patrové posteli. Brečím, protože tohle velké šedivé město neznám. Brečím, protože tu nikdo nemluví česky, protože mi nikdo nechce dát práci. Brečím, protože tenhle mizerný hostel přesně odráží, v jaké životní etapě se nacházím.
 
 Taky během těch čtrnácti dnů chytnu plíseň nohou a odmítnu dvě nabídky k sexu. První od totálně opilé patnáctileté Švédky, která je účastnicí evidentně liberálního školního výletu (na moje vychované, ale razantní „ne, děkuju“ reaguje tím, že mi pozvrací nohy), a druhou od hezkého, intelektuálně vypadajícího Američana v tričku s nápisem _Make tea, not war_, co dny a noci sedí na chodbě před mým pokojem s knihou. Po nepříliš vlídném odmítnutí („Nech mě, buziku!“) pak na své smutné palandě poprvé po měsíci a půl onanuji. Je to nevzrušivé, mechanické, samozřejmě u toho brečím a myšlenky se mi stáčejí směrem, který mi nečiní dobře ani u srdce, ani v pyžamových kalhotách. A tak se ze zdravotních důvodů mermomocí snažím nemyslet na život doma v Čechách, na to, co se mi tam stalo, ani na to, jak mizerný mám život tady v Irsku. Netrénovaná ruka mě příšerně bolí a já si představuji něco nezávadně vzrušivého. Opilou Švédku. Amerického knihomila. Oba dohromady – výsledek se nakonec přece jen dostaví.
@@ -120,8 +114,6 @@ Na druhý den ráno vyjdu z pokoje s odvážným odhodláním oba vyhledat a 
 Moc mi to nejde, ale ani jednou u toho nepomyslím na to, s čím se tady v Dublinu zatím marně snažím vyrovnat.
 
 ## Černé louže
-
-  
 
 „Hlavně si nemysli, že když jsi byl v Dublinu, žes byl v Irsku. Dublin, to je to nejmíň irský město v celý zemi,“ říká zcela vážně šestadvacetiletý Padraig. Kluk, kterého jsem potkal včera v jedné zdejší hospodě. Trpělivě tam naslouchal mému stěžování si na těžký život, na tohle nevlídné město, na příšernou irskou byrokracii a na neochotu Irů mě zaměstnat. Nabídl se, že mi druhý den pomůže oběhnout všechny důležité úřady, vyřídit papíry, co pro život tady potřebuji, a že mi zároveň ukáže město. Netušil jsem, že se za jeho průvodcovskou charitou skrývá něco navíc.
 
@@ -158,8 +150,6 @@ Pomalu si pak guinnesse vychutnávám. A když mám dopito, říkám si, že js
 A zkusit něco, co si už vlastně dlouho přeju udělat.
 
 ## Střevní trable ve městě pětadvaceti mostů
-
-  
 
 V Dublinu se mi opravdu nedařilo: tři týdny jsem marně hledal slušnou práci, cítil jsem se hrozně osamocený (těch několik jepičích kamarádství v opilosti se nepočítá) a vůbec na mě celé to depresivní město padalo. Na konci třetího týdne jsem zcela vážně přemýšlel, že zase naberu východní směr a vrátím se do Prahy.
 
@@ -198,8 +188,6 @@ V dalším týdnu se do téhle pobočky ještě několikrát vrátím. Nikoliv 
 Zdejší personální toalety pak ještě mnohokrát využiju. To už ale jako zaměstnanec Bank of Ireland.
 
 ## Chlupatý Ital a laciní Slováci
-
-  
 
 Několik prvních týdenních výplat od nového zaměstnavatele mi dodalo takové finanční sebevědomí, že jsem se rozhodl opustit své dočasné bydliště, příšernou ubytovnu u corkského vlakového nádraží, a začít zase po delší době žít jako člověk – v normálním pronajatém bytě.
 
@@ -252,8 +240,6 @@ Další den přinesl kromě kocoviny a náhlého vzestupu stavu elektro­měru 
 Kamilka mi pomohla najít nový, skvělý byt. Není sice u pivovaru, zato je bez spolubydlících, bez pohlavních vší a s plným elektrickým výkonem.
 
 ## Seamus
-
-  
 
 Jsem v Irsku už přes dva měsíce.
 

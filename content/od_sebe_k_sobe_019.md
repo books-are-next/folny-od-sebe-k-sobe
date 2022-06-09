@@ -3,11 +3,9 @@ title: ''
 contentType: prose
 ---
 
-pátý, šestý a sedmý měsíc druhého roku
+_pátý, šestý a sedmý měsíc druhého roku_
 
 ## Nekonečný prodloužený víkend
-
-  
 
 Pátek.
 
@@ -107,21 +105,15 @@ A v ten okamžik začíná venku pršet.
 
 ## E-mail od synovce
 
-  
+> Ahoj, strejdo!
 
-Ahoj, strejdo!
+> Ty krávo, ty mi dáváš! Poslal jsi mi v noci esemesku v angličtině. Vejrám na ni jak vocas, nechápu, nerozumím. Tak dobře zas anglicky neumím. Ale vzal jsem ji do školy a učitelka řekla, že se na to mrkne, přeloží a udělá z toho referát o irský podobě anglickýho jazyka. Říkala, že mám štěstí, že mám příbuznýho v Irsku, že se jako můžu rychlejc naučit pořádně anglicky. Takže doufám, že jednou budu taky tak dobře umět jako ty.
 
-  
-
-Ty krávo, ty mi dáváš! Poslal jsi mi v noci esemesku v angličtině. Vejrám na ni jak vocas, nechápu, nerozumím. Tak dobře zas anglicky neumím. Ale vzal jsem ji do školy a učitelka řekla, že se na to mrkne, přeloží a udělá z toho referát o irský podobě anglickýho jazyka. Říkala, že mám štěstí, že mám příbuznýho v Irsku, že se jako můžu rychlejc naučit pořádně anglicky. Takže doufám, že jednou budu taky tak dobře umět jako ty.
-
-Tak ahoj a příště radši česky.
+> Tak ahoj a příště radši česky.
 
 P. S.: Už sis tam našel nějakou kněžnu?
 
 ## Zakládám účet pro dvojčata
-
-  
 
 Už jsem zažil ve svý zdejší práci ledasco, a tak si dost sebevědomě myslím, že mě jen tak něco v každodenním styku se zákazníky největší irský banky nepřekvapí. Ale dnes přece jen.
 
@@ -155,8 +147,6 @@ A přestože to byl v práci dost nepovedený, podělaný den, nemohl jsem si 
 
 ## Jak se bydlí s boyfriendem
 
-  
-
 Sedím jako vždycky po práci s kolegy alkoholiky před jednou z hospod v centru města a škemrám, abychom dali před rozchodem do hnízd ještě jedno. Ne snad, že bych tak žíznil, ale – nelehce se mi to přiznává – abych trochu zkrátil dobu strávenou doma.
 
 Jak známo, Jeho veličenstvo Můj boyfriend se ke mně nastěhoval a tu třetí světovou, ten chaos, který tím vyvolal v mým životě a taky v mým bytě, nezvládám příliš pohodově. Jsem z něj, z jeho věcí a z úplně nových skutečností, kterým v souvislosti s jeho neustálou přítomností musím čelit, úplně vedle. Ale zvykám si, teda asi. Pomalu a bolestivě.
@@ -186,8 +176,6 @@ Svoji pintu nedopíjím, přestala mi chutnat, opouštím hlouček svých dětsk
 Seamus je doma.
 
 ## Konečně boyfriend pro Milana
-
-  
 
 Vystřelte rachejtle, vlajky na stožáry, vyhlaste tři dny státního svátku pro všechny teplý: Milan si našel boyfrienda! Z masa a kostí!
 
@@ -226,8 +214,6 @@ Následujících několik sekund si oba pochutnáváme. On na právě došlý zp
 Několik dalších desítek minut pak osamoceně a dvojitou dávkou připíjím na jejich zdraví a taky na tenhle nový česko-irský vztah.
 
 ## Jak jsem zapřel boyfrienda aneb rozbitá trouba
-
-  
 
 Naše zpocený těla se od sebe konečně odlepily. Zrychlený dech se pomalu vrací do normálního tempa.
 
@@ -315,8 +301,6 @@ A pak si vůbec poprvý společně uvaříme jídlo v naší nově opravený t
 
 ## Jak jsem neměl sex se slovanským bratrem
 
-  
-
 Poslední červencový týden jel Seamus se svým starším homobráchou, se kterým jsem měl jednou omylem internetový sex, prohřát svoje už tak dost teplý těla na dovolenou do Španěl, takže jsem v tom vlhce šedivým Irsku, nasáklým alkoholem a prasečí chřipkou, sám samotinký, slaměný nahormoněný vdovec. Ale protože se chci stát laureátem monogamní gay ceny Pavla Vítka pro letošní rok, rozhodl jsem odolat všem promiskuitním nástrahám a bez výměny pohlavního sekretu s jinými osobami vyčkat hezky partnersky na návrat opálenýho boyfrienda.
 
 Jenže pokušení je na každým kroku.
@@ -346,8 +330,6 @@ Doma pak v posteli mažu z mobilu jeho číslo a poté máme s Seamusem, toh
 Jak říkám, zasloužím si cenu Pavla Vítka za monogamní gay vztah.
 
 ## Mladičký prostitut
-
-  
 
 Máme v ulici prostituta!
 
@@ -417,8 +399,6 @@ Chutnalo mi. I bez mlíka.
 
 ## Koupíš gulášovku?
 
-  
-
 Další zajímavou čeledí Čechů pracujících v Irsku jsou navrátilci.
 
 Makali tu ve fast foodech, hnili v levných pronajatých apartmánech, nadávali na zdejší poměry a po čase – Irskem celí znechucení – jeli zpátky do ušmudlanýho českýho království, aby vzápětí zjistili, že doma je to když ne horší, tak minimálně stejný, jen za dost slabší peníze. A tak se sem do Irska vracejí. A co je tu čeká? Práce ve fast foodech, hniloba v levných pronajatých apartmánech a jednou týdně smutná house party, kde se za poslechu Kabátů a nad levným plechovkovým pivem a písmenkovou polívkou z Vitany, co si před pradávnem přivezli z domova, nadává. Tentokrát na Irsko i na Česko.
@@ -471,8 +451,6 @@ Poctivou irskou.
 
 ## Další pokušení, tentokrát blond
 
-  
-
 Proč, proč, _proč_?
 
 Proč pár hodin před návratem svýho boyfrienda z dovolený do našeho hnízda lásky potkám v místním gay baru toho nejvíc sexy kluka z celýho Irska?
@@ -507,8 +485,6 @@ A myslím to o dost vážněji, než jak banálně to zní.
 
 ## Desetiboj
 
-  
-
 Protože celou neděli propršelo a mně a Seamusovi se nikam nechtělo, rozhodli jsme se zůstat celý den doma a věnovat se čistě domácím aktivitám. Navíc inspirováni mistrovstvím světa v atletice jsme se rozhodli zasoutěžit si v netradiční disciplíně – v ejakulaci: zkrátka kdo rychleji (výsledky uvádím z čistě zpravodajských důvodů: já), kdo rychleji dvakrát po sobě (on), kdo dál (on), kdo víc (výsledky nejasné), střelba na cíl (plichta) a podobně.
 
 Po nějaký pátý šestý disciplíně, kdy už jsem úplně vysportovaný a náčiní neslouží, jak by mělo, a vyměkle vypovědělo službu, žádám Seamuse o povolení podpůrných prostředků. Mám tím na mysli několik let starý číslo nejtrapnějšího časopisu všech dob, Lea, který se mnou cestuje životem a má čestný místo v šuplíku hned u postele, a to proto, že v něm pózuje jedna z mých dejvických bejvalých a její ruce na jejích kozách mi jako zázrakem dodnes, i po těch letech a překvapivě i v těchto homo dnech, dodávají _drive_, energii, nadrženost.
@@ -522,8 +498,6 @@ Taky plánujeme naši dovolenou v Portugalsku, kam letíme příští týden. A
 „Tak a teď kdo výš!“
 
 ## Jak jsme uzavřeli lisabonskou smlouvu
-
-  
 
 Letadla nad hlavním městem Portugalska létají hodně nízko, zdejší letiště je totiž přímo v severní části města a do centra to trvá jen deset minut. Ale i tak nám doba strávená v lisabonským taxíku stačí k uzavření dohody: během dvou poprázdninových týdnů v Lisabonu si chceme trochu opálit svoje bledý irský těla, dát jim relax, řádný alkoholický průplach a intenzivní sexuální terapii za vysokých teplot. A hlavně, učinili jsme ono závažný rozhodnutí v životě každý partnerský gay dvojice: na týhle dovolený přibereme pro sexuální pobavení a rozšíření obzorů do hry třetího hráče.
 

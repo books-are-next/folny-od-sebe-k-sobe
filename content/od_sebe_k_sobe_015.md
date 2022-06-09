@@ -3,12 +3,10 @@ title: ''
 contentType: prose
 ---
 
-jedenáctý a dvanáctý měsíc prvního roku  
-a první měsíc roku druhého
+_jedenáctý a dvanáctý měsíc prvního roku  
+a první měsíc roku druhého_
 
 ## Cestou do československého obchodu
-
-  
 
 Na cestě z práce domů jsem dneska na ulici narazil na Radka a Markétu, se kterými jsem na počátku svý irský anabáze tady v Corku bydlel.
 
@@ -48,8 +46,6 @@ Chutná báječně!
 
 ## Vánoční stromky v době ekonomického úpadku
 
-  
-
 Vánoce udeřily plnou komerční silou. I na ekonomickou krizí soužený Irsko.
 
 Trávíme s Seamusem sobotu drancováním dublinských obchodů. Je to ten nejlepší lék na kocovinu po dlouhý noci plný těžkýho francouzskýho vína.
@@ -73,8 +69,6 @@ Protože kolem toho mluvícího zázraku chodím každý den do práce, je řada
 Něco na tý recesi asi přece jen bude.
 
 ## Předvánoční náboženská osvěta
-
-  
 
 Poslední den v práci v tomhle vypečeným roce.
 
@@ -108,8 +102,6 @@ Můj poslední letošní pracovní den nadobro skončil.
 
 ## Vánoční zaměstnanecká party
 
-  
-
 Každý rok se v novinách, v přílohách o práci a vztazích na pracovišti, objevují varovný články o tom, jak si dávat pozor na vánočních zaměstnaneckých večírcích, jak moc nepít a hlavně moc nemluvit, vyhýbat se intimním tématům. Vždycky jsem si říkal, takový lůzr bych nikdy nebyl, abych se takhle choval.
 
 Od včerejšího zaměstnaneckýho mejdanu je to oficiální: jsem jeden z těch nemožných idiotů!
@@ -128,8 +120,6 @@ Proboha, za pár hodin letím domů na Vánoce!
 
 ## Cestou na Vánoce domů
 
-  
-
 Sedím rozsekaný na cucky na Heathrow a čekám na letadlo do Prahy. Letím poprvý z Irska domů. Letím poprvý od tý doby domů, navíc na Vánoce. První Vánoce _bez ní__!_
 
 Na chladných lavicích Terminálu 5, toho nejvíc gay letiště, jaký jsem kdy viděl, to na mě všechno dolehlo.
@@ -146,11 +136,9 @@ A pak vysoko ve vzduchu, někde nad západními Čechami, nehybný vyčerpání
 
 Jsem doma.
 
-Merry fucking Christmas!
+_Merry fucking Christmas!_
 
 ## Na kole s kamarádkou na Andělu
-
-  
 
 Vánoce? Přesně jak jsem říkal: neveselo, truchlivo. Zaplaťpánbu, že už je konec.
 
@@ -183,8 +171,6 @@ Marcela se významně ušklíbne a já se poprvý za celý svátky trochu pousm
 „Ne, ne. Teď bych si dal tu pravou kolu. Tu normální. Tu tvrdou. Plnotučnou. Heterokolu.“
 
 ## Zpět v Irsku – jak na Nový rok, tak po celý rok?
-
-  
 
 Letadlo konečně vzlítlo, konečně letím zpátky. Konečně můžu nechat smutek zase tam v Praze a pokračovat ve svý očistný terapii Irskem.
 
@@ -222,8 +208,6 @@ Je jasný, že já dneska žádnou raketu neodpálím. Přesto sám sobě přeju
 
 ## Český Ježíšek versus irský Santa
 
-  
-
 Ležíme nahatí s Seamusem v mý irský posteli a povídáme si, jak jsme prožili Vánoce a co se v našich životech za ty dva týdny změnilo.
 
 „Nebudu ti lhát, koukal jsem i po jinejch,“ říká.
@@ -247,8 +231,6 @@ Teď jsem dojat já a rovnou si ten pozoruhodný výstřelek nový módní sez�
 „Sedí ti dobře. Měl jsem tě v oku,“ řekne ještě a pak si navzájem další hodinu nadělujeme dárky nehmotný.
 
 ## Černý pondělí
-
-  
 
 Návrat do práce po svátečních dnech byl v našem podniku vskutku nesváteční.
 
@@ -280,8 +262,6 @@ Asi toho dneska vypijeme dvakrát, ne dvakrát, třikrát víc než obvykle.
 
 ## Horší než chřipka
 
-  
-
 Zatímco většina mých kolegů v práci v těchto deštivých, chladných dnech bojuje s chřipkou a rýmou, který si chrchlavě předávají mezi sebou, mě sužuje trochu jiný typ virózy. Mám akutní obsesi jedním zákazníkem.
 
 Řekl bych, že to ze začátku nebylo ani tak fyzický uhranutí, natož sexuální uslintaná posedlost, ale spíš jakýsi iracionální mentální okouzlení. Alespoň podle prvních příznaků týhle náhlý indispozice. Jenže i ta nejobyčejnější chřipka má svůj vývoj a to nejtěžší přichází až po nějaký době.
@@ -309,8 +289,6 @@ Domnívám se, že si myslí, že jsem ve svý práci velmi zodpovědný a peč
 A pak, po čtyřech dnech tohohle absolutního eroticko-myšlenkovýho poblouznění, chytnu od svých kolegů skutečnou chřipku jako hrom a musím zůstat doma.
 
 ## Posedlost kulminuje
-
-  
 
 Mám horečku, bolí mě v krku, měl bych ležet v posteli. Ale místo toho chodím několik posledních dní dvakrát denně do Jamesova obchodu. Schovávám se tam mezi regály, posmrkuju a pozoruju ho. Jak se baví s lidmi a bere od nich peníze, jak se směje, jak usrkuje Starbucks kávu, jak potají za kasou ukusuje sendvič.
 
@@ -404,21 +382,15 @@ Chřipka i posedlost Jamesem byly pryč.
 
 ## Dopis synovcovi k narozeninám
 
-  
+> Milý synovče,
 
-Milý synovče,
+> posílám ti z Irska přání všeho nejlepšího k tvým 12. narozeninám a posílám ti drobný dárek. Můžeš uklidnit svoji mámu, není to _cool_ zásobník na trávu ani žádná laciná sexuální pomůcka. Vypadá to jako dětský chrastítko, no a taky to je dětský chrastítko. Doufám, že se ti bude líbit. Koneckonců je to dárek. Navíc z Irska. Vlastně je to typicky irský chrastítko. Darovanýmu koni na zuby nekoukej.
 
-  
-
-posílám ti z Irska přání všeho nejlepšího k tvým 12. narozeninám a posílám ti drobný dárek. Můžeš uklidnit svoji mámu, není to _cool_ zásobník na trávu ani žádná laciná sexuální pomůcka. Vypadá to jako dětský chrastítko, no a taky to je dětský chrastítko. Doufám, že se ti bude líbit. Koneckonců je to dárek. Navíc z Irska. Vlastně je to typicky irský chrastítko. Darovanýmu koni na zuby nekoukej.
-
-Tak ahoj, Honza  
-Teda strejda Honza
+> Tak ahoj, Honza  
+> Teda strejda Honza
 
 ## Úsporná pracovní opatření  
 a mentální čistota irskýho zaměstnance
-
-  
 
 Hysterie našich bankovních šéfů ohledně ekonomický krize nabírá na obrátkách: po vyhazovech a snížení platů došlo na snižování nákladů a výdajů – snaha šetřit kde se dá však dostala absurdní podobu.
 
@@ -451,8 +423,6 @@ A dneska, během polední pauzy na oběd, v zešeřelý kantýně (šetří se
 A s nevídanou chutí jsem spráskal celou misku tý odporně chutnající polívky.
 
 ## Rok v Irsku
-
-  
 
 Tak tak, jsem tu přesně rok.
 
@@ -501,8 +471,6 @@ _It’s alive inside._
 Vše nejlepší ke svýmu výročí!
 
 ## Pátek třináctýho – výlet do heterosexuálna
-
-  
 
 Za to, že jsem se dnes večer rozhodnul pro nečekanou výpravu z homosexuálního ostrova na heterosexuální pevninu, viním pověstnou výjimečnost pátku třináctýho. Do značný míry lze vinit i Massima, který v práci věčně stahuje heterácký porno, a to tak urputně, že ani když jde na oběd, nedá počítači spočinout a žádá mě, abych v době jeho nepřítomnosti stahovaný materiál editoval a rozřazoval do tematických složek, čímž mě pravděpodobně trochu infikoval. Rozhodujícím faktorem však byla skutečnost, že jsem na večer neměl žádný extra plány. Seamus je opět s rodiči v Galwayi a vrátí se až zítra, přesně na den svatýho Valentýna, takže mi na prozkoumání pozapomenutých krajin zbývá dost času i volný kvartýr.
 
@@ -582,8 +550,6 @@ A nemusím si to ani nahlas potvrdit: je jasný, že dnešní výlet do heteros
 
 ## Svátek svatýho Valentýna
 
-  
-
 Probral jsem se k životu někdy kolem třetí odpoledne, a to ve zbídačeným stavu: maják mi třeštil výstavní bolestí, způsobenou konzumací laciný vodky, v ústech žebrácká opera, lokty a kolena do krve spálený od tý včerejší vykutálený gymnastiky na koberci. A hlavně svědomí černý jak uhel.
 
 Jal jsem se trochu poklidit, respektive jsem jen tak zlehounka přesunoval věci. Vysávání jsem zavrhl okamžitě – příliš hluku pro mou hlavu plnou výbušnin. Pak jsem ještě naposled odprašnil plyšovýho medvěda s připitomělým úsměvem zamýšlenýho jako dárek, povečeřel krabičku paracetamolu a v poloze umírajícího čekal na pana boyfrienda.
@@ -606,7 +572,7 @@ A byl to vlastně povedený večer. Jídlo mi vrátilo energii, jeho úsměv n�
 
 Oplatka mi explodovala v dlani na dva kusy a já z ní vytáhl úzký proužek papíru. Rozevřel jsem ho.
 
-Honza, I love you! Seamus.
+_Honza, I love you! Seamus._
 
 A to mě dostalo.
 
@@ -617,8 +583,6 @@ A později, když jsme spolu koukali na jakýsi (ovšemže romantický) film a�
 Klidně i v přeplněný restauraci nebo ve vydýchaným kině.
 
 ## Seamus a já – jak to vlastně je
-
-  
 
 Je na čase vyjasnit (hlavně sám sobě), jak to s námi – s Seamusem a mojí zmatenou maličkostí – nebo spíš _mezi_ námi vlastně je.
 

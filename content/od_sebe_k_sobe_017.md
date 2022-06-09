@@ -3,11 +3,9 @@ title: ''
 contentType: prose
 ---
 
-druhý, třetí a čtvrtý měsíc druhého roku
+_druhý, třetí a čtvrtý měsíc druhého roku_
 
 ## Démoni
-
-  
 
 Se svou verzí příčin ekonomický recese, kterou Irsko právě teď naplno prožívá, přišel i kolega z bankovní ochranky, náboženský fanatik Lukasz. Místo bezpečí a ochrany během finančních transakcí začal polský boží syn nabízet irským zákazníkům svý vysvětlení:
 
@@ -20,8 +18,6 @@ Už dlouho jsem se v práci tak nepobavil.
 Předem lituju lidi, který budou před nebo za svérázným šiřitelem víry stát v dlouhý frontě na podporu v nezaměstnanosti.
 
 ## Nový mužný gay svět na obzoru
-
-  
 
 Dneska před prací jsem si potřeboval doplnit hladinu homonálady a homoinformací, a proto jsem si zašel na kafe do duhovýho _poof_ centra ve městě. Různý druhy kávy sponzorovaný irskou vládou, ohmataný gay čtivo, barman, co si myslí, že je Shakira, a osamělí kluci u stolečků.
 
@@ -55,14 +51,10 @@ Papírek s telefonním číslem jsem do žádného nevyhodil.
 
 ## Milan někdy nad ránem na zásadní téma
 
-  
-
 „No tak s tímhle bisexuálním sajrajtem na mě nechoď! Tohle si může myslet jen taková polovičatá buzna jako ty! _Jak_ že nemůžou být pěkný?! Jasně že můžou! Co to je za nanicovatý heterácký soft řeči?! Tomu evidentně nerozumíš! Se radši na to gayování vyser, když máš takový blbý, evidentně nepravdivý hlody! Stejně tak jako oči, úsměv, prsty na rukou nebo jakákoliv jiná část lidskýho těla, tak i o péru můžeš říct, jestli je pěkný nebo ne. Někdo má pěkný. Někdo ne. Tak nemluv rubbish, věř zkušenýmu a radši objednej další pivka, než nám to tu zavřou.“
 
 ## Nejvýznamnější, nejdivočejší,  
 nejdivnější irský den celého roku
-
-  
 
 Probudil mě rachot, křik, hluk na ulici.
 
@@ -113,8 +105,6 @@ Chci se vrátit zpět do svýho nadrženýho snu, ale už se mi to nedaří. A 
 S každým dalším zlostným úderem sousedčina vysavače na mou zeď se ptám sám sebe: byl to skutečně jen sen, nebo se mi vyjevila minulá noc v plný parádě?
 
 ## Irsko není porno velmoc, ale má své hvězdy
-
-  
 
 Esemesková konverzace s jedním zrzkem, kterýho jsem potkal minulý týden v jedný teplý kavárně, dospěla do stadia Pojďme spolu někam vyrazit, a tak proti sobě sedíme v jednom teploušským bistru v centru.
 
@@ -176,8 +166,6 @@ Namísto domů mířím podvečerní ulicí do nejbližší pornopůjčovny. Na 
 
 ## Morris a jeho honba na irskýho zrzka
 
-  
-
 V honbě za svým prvním intimním sblížením s plameňákem, džindžrem neboli zrzkem dorazil Milanův kamarád Morris, co žije v Anglii, i sem k nám, na náš teplý irský ostrov. Je mu osmadvacet a je to král Gaydaru.
 
 Morris vynechal irský památky, dlouhý procházky v dešti po útesech i návštěvu muzea s irskou historií. Veškerou energii svýho výletu plně zasvětil svý rudovlasý misi.
@@ -230,8 +218,6 @@ Někdy nám teploušům fakt nerozumím.
 
 ## Reprodukční povinnosti
 
-  
-
 Po těžký a dlouhý sobotní noci jsme se někdy brzy nad nedělním ránem přesunuli z homoklubu do jedný hospody bez bližší specifikace sexuálních preferencí a hlavně s prodlouženou otevírací dobou.
 
 Je to tu mnohem zábavnější než mezi teplomety. Pestřejší, uvolněnější. Opilý ošklivý holky a opilí hezcí kluci. A taky jeden fanatický mravokárce, jak se posléze ukáže.
@@ -255,8 +241,6 @@ Nějak se mi to pomyšlení na intimno dneska hnusí.
 A navíc jsem z těch mravoučných blábolů nasranej. O dost víc, než bych si chtěl připustit.
 
 ## Přerušený holení
-
-  
 
 Takový poklidný, skoro partnerský podvečer s trochou nezbytný hygieny: já ve sprše, s namydlenými středními partiemi, Seamus klečí za okrajem vany, rukávy vyhrnutý a holí mi podvozek. Dělá to jemně a se soustředěným zaujetím a ten nervózní pocit ostrých čepelek na kůži je dost rajcovní. A zrovna v momentě, kdy mu začnu raketově tvrdnout v prstech, někdo brutálně zaklepe na dveře mýho bytu.
 
@@ -282,8 +266,6 @@ Mám samozřejmě špatný pocit z tý rychlý lži, na druhou stranu mě ale m
 
 ## Irové jsou otužilí
 
-  
-
 V Irsku stačí málo: jen pár studených slunečních paprsků a ulice se promění. Respektive lidé na ulicích. Přestože je slunečno, teplo rozhodně není, tak dvanáct patnáct stupňů, a za deset minut bude určitě pršet a vítr bude lámat deštníky a shazovat reklamní poutače. Ale Irům to nevadí: sluníčko se ukázalo, a tak je čas na radikální změnu oblečení.
 
 Rozpoznat místní lidi od turistů v těchto raně jarních dnech je víc než jednoduchý. Zatímco my cizinci i teď v půlce dubna nosíme po větrných irských ulicích čepice, šály, hřejivý bundy, mladí příslušníci domácího kmene mašírujou po městě v minisukních, tílkách a tenounkých jarmilkách (ženský plemeno) nebo v kraťasech a naboso ve flip-flopech (zbytek).
@@ -295,8 +277,6 @@ Otužilost Irů je fakt enormní. Ve dvě ráno, teplota jen lehce nad nulou, ro
 A tak si tak sedím na ulici před knajpou Le Chateau, nejstarší hospodou v Corku, zahřívám se grogem z Tullamore Dew a prohlížím si s obdivem ty otužilce. Zahalen do čepice a šály, límec kabátu vysoko zvednutý, zkřehlý ruce mám hluboko spuštěný do rukávů svetru. Bradavky mi tuhnou zimou, ale možná i trochu vzrušením, jak si tak představuju ty kolemjdoucí polonahý dívčí zadky ve svým klíně a ty nestydatě obnažený chlupatý mužský lýtka, co rázujou kolem mě, na svch ramenou. A kdyby tu se mnou seděl Rudolf Hrušínský z filmu Vesničko má středisková, zaručeně by mi řekl: „To ale hezká móda, viď.“
 
 ## Zpátky do kondice
-
-  
 
 Ve snaze obnovit svou fyzickou zdatnost po zimních měsících plných litrů tučných guinnessů, nezdravýho jídla a jiných čuňáren jsem se rozhodl obnovit svý členství v jednom z místních fitness center. Mým cílem je rychle se před létem dostat znovu do kondice a zploštit břicho, protože s plochým břichem si zkrátka v létě lze užít víc. A to je fakt.
 
@@ -329,8 +309,6 @@ O několik desítek minut absolutního fyzickýho vypětí později, s lebkou 
 Cestou domů si prohmátnu špeky na břiše. První krok na cestě k znovunabytí ztracený kondice je vždycky ten nejtěžší. A já ho udělal. Akce plochý břicho bude pokračovat zase zítra. Ještě se stavím ve sportovní prodejně: kupuju si to nejdražší tričko na cvičení, jaký tam mají. To vše proto, abych byl zítra v tělocvičně za lidskou bytost. Myslím v tý mý starý teploušský tělocvičně. Bez irských lidovek a soutěživých heteráků.
 
 ## Jsem down a do Moskvy nejedu
-
-  
 
 Posledních několik dní se cítím mizerně. Jsem _down._ Co se životní energie, nálady i sexuálního apetitu týče. Navrhl jsem proto Seamusovi pro špetku pobavení trojku.
 
@@ -404,8 +382,6 @@ Jak říkám, jsem poslední dobou _down._
 
 ## Jarmilo P., díky moc!
 
-  
-
 Někdy se místním nedivím, že o nás Češích nemají valný mínění. Že jsme v jejich očích národ divnýho prezidenta, levnýho piva, levných holek a vychcaných šmelinářů odněkud z východu. Do značný míry si za to můžeme sami. Jeden čerstvý příklad za všechny.
 
 Kamilka mi během naší pravidelný nedělní návštěvy veřejnýho bazénu vyprávěla historku od nich z práce. „Tak dělej, dělej, pojď sem, mám pro tebe pikošku. Něco o Češích tady v Irsku,“ hýká na mě z vířivky, hned jak vyjdu z šaten.
@@ -423,8 +399,6 @@ Většinou začínáme naši pravidelnou mokrou sešlost pomalými tempy v hlav
 Takže díky moc, Jarmilo P. z Českých B., za tu skvělou pracovní reputaci!
 
 ## Seamus mi volá do práce
-
-  
 
 Normální pracovní dopoledne. Jak se mi od rána střídají zákazníci u okýnka, pomalu mě opouští vstřícnost a vlídnost a mění se ve sžíravou touhu po polední přestávce. A najednou ke mně přiběhne Saoirsa. Že prý mám svýho mistra boyfrienda na lince. Ať si to jdu do kanclu vyřídit.
 
@@ -451,8 +425,6 @@ To mě zaskočí. Žaludek se mi zhoupne a náhle je mi na omdlení. Představa
 „No jasně že s tebou půjdu.“
 
 ## Pohřeb
-
-  
 
 Stojíme před pohřebním domem v centru města. Podávám ruku Seamusovým rodičům a říkám, že je mi líto jejich ztráty. Kromě toho, že to je všechno tak absurdní, že je poznávám za takovýchto okolností (vše je orámováno lakonickou soustrastí, ale víc by se pro tuhle situaci hodil rozhovor: „Upřímnou soustrast.“ – „Děkuju. Ale kdo jste?“ – „Prznitel vašeho syna. Rád vás poznávám.“ – „Taky mě těší.“), je to z jejich strany vlastně i dost chladný. Což ale koneckonců chápu.
 
