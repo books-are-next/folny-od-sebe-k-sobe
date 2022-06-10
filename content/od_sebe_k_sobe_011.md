@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 _pátý, šestý a sedmý měsíc prvního roku_
 
 ## Pracovní rutina
@@ -328,3 +330,5 @@ Prostě jen tak přišla do kanceláře, s každým se rozloučila, podala vše
 Kdybych mohl ve svým půlročním životě v Irsku změnit jednu jedinou věc, vzal bych zpět stupidní slova o její ošklivosti pronesená mezi kolegy.
 
 Jsem idiot.
+
+</section>

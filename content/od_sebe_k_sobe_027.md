@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 _jedenáctý měsíc druhého roku_
 
 ## Moje francouzská záležitost
@@ -137,13 +139,25 @@ Typický, říkám si.
 
 Hobluje mě hodně zvostra. Zezadu. Vůbec se mi to nelíbí. Snažím se mu říct, že to takhle nechci. A jestli to vůbec teďka nějak chci, tak bude muset dost ubrat. Zjemnit. Ale vůbec mě neposlouchá a naopak přitvrdil. Je fakt vostrej. Hlavou mi problikne motto kampaně jednoho místního _fag_ magazínu: když to nechcete a nelíbí se vám to, je to _rape_.
 
+</section>
+
+<section>
+
 Den po nadržený sprše u Seamuse jsem mu poslal esemesku: „Pořád čekám. Třebaže ne v tvý koupelně.“ Ale nic, žádná odpověď. Už víc než týden. A to mě dralo, furt dere. Bez Seamuse není Irsko už dál pro mě.
 
 Zato můj francouzský _fuckbody_ Anthon mě bombardoval zprávama, ve kterých se dost vehementně domáhal svých práv jakožto plnohodnotný boyfriend. Přestože tenhle výstavní Francouz splňuje všechny buzerantský předpoklady i mý náročný požadavky a teoreticky by to mělo fungovat, vlastně se mi do něj vůbec nechce. Je to typ, se kterým se párkrát vyspíte a nic víc. Žádná větší výzva.
 
 „Une autre fois, quelque part ailleurs,“ píšu mu nakonec chladně, protože už mám jeho lísání dost. „Někdy jindy, někde jinde. Třeba v tý Praze…“
 
+</section>
+
+<section>
+
 Teď si mě ten drsoň dost hrubým chvatem přetočil na záda a na dvě vteřinky, než do mě zase vstoupil, jsem si myslel, že se mu vysmeknu a uteču. Ale čapnul mi nohy za kotníky tak bolestivě, že jsem neměl šanci. Vysoko mi je nadzvednul, až mi můj kostnatej zadek vyletěl do vzduchu, a v takhle bezbranný pozici do mě znovu brutálně narazil svým tvrdým podbřiškem. Ani jsem si v první chvíli neuvědomil, že jsem to já, z koho vypadl ten hrozivej výkřik, kterej se po chvíli změnil v útrpný rytmický vzlykání. A je to dost děsivá litanie, co se ze mě valí, pěkně hlučnej a utýranej lament. Lament za Seamuse, za Anthona, možná i za Arta O’Learyho, ale hlavně za všechny ty kluky, se kterýma to bylo pěkný, vzrušivý, se kterýma to nebolelo, se kterýma jsem nebyl tak bezmocnej a poníženej jako právě teď.
+
+</section>
+
+<section>
 
 V minulým týdnu jsem se vykašlal na práci, hodil hustý předem neanoncovaný áčko, ze kterýho se mohli všichni v bance zbláznit, jako bych byl první nebo poslední, sakra, a jel do Dublinu za Viktorkou žebrat o trochu lásky. O trochu porozumění. Přinejmenším o jedno drobný rychlý přičichnutí.
 
@@ -157,9 +171,21 @@ A pak za další dva dny, kdy konečně vystřízlivím, dám se trochu fyzicky
 
 Šel jsem do anonymního sexu přes net.
 
+</section>
+
+<section>
+
 Ten hrdlořez mě furt brousí, a to hodně nahusto, je na mě fakt dost vostrej. Celkově je _scary_ a _rough_. Nemůžu si pomoct, ale tečou mi slzy proudem. Párkrát mě proplesknul, ale bolest nevnímám, jen to ponížení a bezmoc. A teď se ve mně hrůznou myšlenkou zastaví krev: rychle šáhnu dolů, do centra dění a má děsivá předtucha se naplní: pigluje mě bez gumy! A to už fakt nedávám, chytám naprostej záchvat nejtvrdší hysterie, tady jde veškerá prdel stranou, smýkám se a chci razantně vše ukončit, on mi ale znovu jednu natáhne, tentokrát silnější, až mě to paralyzuje, dokonce se mi zdá, že na mě teď něco zlostně zasyčel špatnou češtinou, možná něco jako: „,Klit, klit, jeť, jeť,“ ale možná se mi to jen zdálo, on každopádně pokračuje, snad ještě náruživěji. Mám před očima temno. Jen jakoby zdálky na mě svítí malý, ale ostrý světlo, nějakej neonovej nápis, kterej je ale tak daleko, že nejde přečíst. Můj bouchač mi teď zkroutil obě ruce do bolestivý pozice a přetáhl přes ně svůj opasek, aniž by se třeba obtěžoval optat, jestli se mi takovejhle ujetej hnus líbí nebo ne. Zjišťuju, že se fakt nemůžu moc hejbat. Že nemám šanci. A teď už jsem doopravdy vyděšenej! Bojím se! Že mi něco obrovskýma písmenama vytetuje na břicho, jak jsem nedávno četl v jedný knížce, třeba: _právě tě ojíždím, ty buzerante!_ Nebo že to třeba ani nepřežiju.
 
+</section>
+
+<section>
+
 Prohodil jsem s tím neznámým týpkem jen tři čtyři lajny na Manhuntu a hned jsem se s ním dohodl na setkání: nějaká garáž za městem. Byl jsem tam za třicet minut, a zrovna když mě napadlo, že bych měl být opatrnější a třeba jen poslat Milanovi rychlou zprávu, kde jsem a s kým, aby aspoň někdo věděl, kde se hloupej nadrženej Honza v tuhle chvíli nachází, tak se objevil on a na žádný esemesky už nebyl čas. Dvě tři slova, žádná obřadnost, rovnou na věc. Do obličeje jsem mu pořádně neviděl, zato na ten zbytek jsem měl až moc dobrej rozhled: dobrý, velký, svalnatý tělo, hned bylo jasný, kdo bude dominantní. Jen jsem netušil jak moc.
+
+</section>
+
+<section>
 
 Zaplaťpánbů: je konec! Hned jak uvadl, jsem se mu vyvlíknul. Vzteky a bezmocí jsem ho vší svou ochablou silou praštil do hrudi, ale vyšlo z toho jen takový směšný, buzerantsky nanicovatý plácnutíčko. Kopnutí do holeně se mi vyvedlo líp. Vyjekl. Podíval se na mě vyděšeně, jakože co dělám, co tak vychyluju, ale to už si sbírám svoje hadry a pakuju se. Aniž bych to registroval, z očí mi pořád tečou slzy.
 
@@ -234,3 +260,5 @@ Je zima. Nezřízená dejvická kosa, která by celé Irsko totálně paralyzova
 „Tak tady bydlím. Snad se ti tu bude líbit. Snad se ti tu se _mnou_ bude líbit.“
 
 A osoba, která vedle mě seděla v letadle a teď se nervózně rozhlíží kolem, bere druhý kufr. Míříme večerním mrazem dolů na Kulaťák.
+
+</section>

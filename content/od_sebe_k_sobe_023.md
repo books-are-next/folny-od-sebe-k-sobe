@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 _devátý měsíc druhého roku_
 
 ## Gay život a alkohol
@@ -405,3 +407,5 @@ A v noci, když jsem se vrátil domů z nádraží, kam jsem byl Viktorku vyp
 Poté o její strategii dlouze přemýšlím, když ležím v posteli v povlečení, který mi koupila, a nemůžu z toho usnout. A pak už toho mám dost a někdy kolem půlnoci se konečně zvedám z postele a svlíkám peřinu z Viktorčina nezajímavýho povlečení. Hodím do pračky na rychlopraní to svoje starý a oblíbený, potrhle blyštivý Seamusovo a pak, zatímco čekám, až uschne, koukám na ztišenou TV na sestřih australskýho ragby. Přirozeně přitom poslouchám svoji oblíbenou australskou zpěvačku malinkýho vzrůstu.
 
 Někdy kolem čtvrtý ráno konečně usínám. Spokojeně a v pořád ještě lehce navlhlým postelovým povlečení.
+
+</section>

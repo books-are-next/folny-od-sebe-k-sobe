@@ -3,6 +3,8 @@ title: Epilog
 contentType: prose
 ---
 
+<section>
+
 _leden 2010_
 
 Sedím v největším pražském gay klubu, usrkávám irskou kávu a koukám na teplý cvrkot kolem. Vystrojení krasavci procházejí kolem mého stolečku někam dolů, kde je prý bar, taneční parket, dokonce i darkroom. Zatím jsem dole nikdy nebyl. Není proč. Přestože si všechny ty zdejší vyšlechtěné hřebečky pečlivě prohlížím, rozhodně nekrujzuju, nevybírám si. Nestojím o žádného z nich. Jen hledám. Toho jednoho. Dělám to tady den co den každý večer. Už třetí týden.
@@ -44,3 +46,5 @@ Jako opařený se otočím ke své koleji. Evidentně se mi tentokrát to správ
 Odněkud zdálky přijíždí další vlak. Tentokrát ten můj.
 
 Pojede opačným směrem.
+
+</section>

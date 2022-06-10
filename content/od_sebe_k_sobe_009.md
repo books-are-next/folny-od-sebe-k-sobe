@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 _druhý, třetí a čtvrtý měsíc prvního roku_
 
 ## Ready for restart
@@ -207,6 +209,10 @@ A to už je teda moc, nasupeně vletím do koupelny a tam zahlédnu něco, co 
 
 Do pěti minut jsem stál venku se svými věcmi a počínajícím svěděním v rozkroku.
 
+</section>
+
+<section>
+
 Ani moje druhé corkské _flat sharing_ nebylo příliš uspokojivé, třebaže trvalo o týden déle. Na inzerát jsem si našel slovenský pár Radka a Markétu, kteří na první pohled vypadali normálně a bez filcek. I byt, kde mi pronajali ložnici, byl vcelku ucházející. Problém byl v tom, že byli extrémně, _extrémně_ šetřiví.
 
 Netopili, nesvítili. Sprchovali se výhradně studenou vodou. Mobily si chodili nabíjet do hospod, ve kterých si nikdy nic neobjednali, jen někde v koutku čekali, až se jim telefony nasytí elektřinou. Koukali kolem sebe a moralizovali nad alkoholickou devastací irského národa a předražeností podávaných nápojů.
@@ -340,3 +346,5 @@ A vyspím se s nějakým úplně neznámým klukem. Ani si nepamatuju, jaký m
 A během příštích měsíců, od toho momentu, kdy jsem poprvý potkal Seamuse, se ještě vyspím s velkým počtem jinejch kluků. A taky s několika holkama. Zkrátka se dost sexuálně vydovádím, koneckonců to jsem si přál.
 
 Seamus, ten kluk s nejkrásnějšíma hnědýma očima na světě, bude ale navždy můj první. Ať už to s námi nakonec dopadne jakkoliv. Navíc se během příštích měsíců stane mým prvním regulérním boyfriendem. A naši společnou fotku, jak se na lavičce v parku snaží jazykem dostat do mý pusy, dokonce umístí na nějaký čas v mým bytě.
+
+</section>
