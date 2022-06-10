@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 _osmý, devátý a desátý měsíc prvního roku_
 
 ## V noci v Paříži
@@ -350,3 +352,5 @@ Když je po všem, vstane a řekne:
 „Začneme druhý kolo.“
 
 V tom momentě se rudě rozzářila střecha tý kolosální budovy naproti a tím bylo vše stvrzeno.
+
+</section>

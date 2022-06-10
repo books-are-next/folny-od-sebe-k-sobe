@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 _pátý, šestý a sedmý měsíc druhého roku_
 
 ## Nekonečný prodloužený víkend
@@ -524,3 +526,5 @@ Ještě se otočí k mýmu panu boyfriendovi, řekne i jemu sir a pak zmizí 
 „Okay. Koneckonců máme dost času,“ řekne Seamus ještě a vejdeme společně do hotelu – dva týdny dovolený byly oficiálně zahájeny.
 
 Náš lisabonský příběh, který je příběhem našeho konce, začal.
+
+</section>

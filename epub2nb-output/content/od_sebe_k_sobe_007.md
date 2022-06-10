@@ -3,6 +3,8 @@ title: Prolog
 contentType: prose
 ---
 
+<section>
+
 _leden 2008_
 
 Tyhle situace úplně nesnáším: z malinkatého nedorozumění se jakousi podivně vybublanou naštvaností stane partnerská hádka se vším všudy.
@@ -30,3 +32,5 @@ Okamžitě roztaju. Tohle je přesně Honza. Tak jak ho znám. Tak jak ho mám r
 Ještě kontroluju boty ve vázání, vše v pořádku, a už jedu dolů. Lyže nabírají rychlost: za několik vteřin budu u něj a políbím ho na usmířenou.
 
 A on mě.
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 _druhý, třetí a čtvrtý měsíc druhého roku_
 
 ## Démoni
@@ -471,3 +473,5 @@ Velký zlom v mý snaze se s tím vším vyrovnat.
 O něco později pak všichni míříme na pohřební hostinu. Kráčím uprostřed mezi Seamusem a jeho sestřenicí Tracy. A zatímco se nás ona snaží vehementně přesvědčit, abychom ji někdy vzali spolu někam do gay klubu, se na sebe s Seamusem podíváme. A v tom pohledu není jen pobavení nad Tracyinou zábavností. V tom pohledu je i velký a upřímný děkuju. Z obou stran.
 
 A ještě něco navíc.
+
+</section>
