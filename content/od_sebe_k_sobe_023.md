@@ -1,9 +1,11 @@
 ---
-title: devátý měsíc druhého roku
+title: ''
 contentType: prose
 ---
 
 <section>
+
+_devátý měsíc druhého roku_
 
 ## Gay život a alkohol
 
