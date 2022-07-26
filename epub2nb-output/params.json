@@ -42,9 +42,9 @@
             "filename": "od_sebe_k_sobe_001.md",
             "xhtml": "od_sebe_k_sobe_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -54,9 +54,9 @@
             "filename": "od_sebe_k_sobe_002.md",
             "xhtml": "od_sebe_k_sobe_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -66,9 +66,9 @@
             "filename": "od_sebe_k_sobe_003.md",
             "xhtml": "od_sebe_k_sobe_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -78,9 +78,9 @@
             "filename": "od_sebe_k_sobe_004.md",
             "xhtml": "od_sebe_k_sobe_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -95,8 +95,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "od_sebe_k_sobe_006.md",
@@ -108,7 +109,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Od sebe / k sobě"
           },
           {
             "filename": "od_sebe_k_sobe_007.md",
@@ -120,7 +122,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Prolog"
           },
           {
             "filename": "od_sebe_k_sobe_008.md",
@@ -132,19 +135,22 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "od_sebe_k_sobe_009.md",
-            "xhtml": "od_sebe_k_sobe_009.xhtml",
-            "id": 8,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "od_sebe_k_sobe_009.md",
+                "xhtml": "od_sebe_k_sobe_009.xhtml",
+                "id": 8,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "druhý, třetí a čtvrtý měsíc prvního roku"
+              }
+            ],
+            "title": "ČÁST PRVNÍ"
           },
           {
             "filename": "od_sebe_k_sobe_010.md",
@@ -156,19 +162,22 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "od_sebe_k_sobe_011.md",
-            "xhtml": "od_sebe_k_sobe_011.xhtml",
-            "id": 10,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "od_sebe_k_sobe_011.md",
+                "xhtml": "od_sebe_k_sobe_011.xhtml",
+                "id": 10,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "pátý, šestý a sedmý měsíc prvního roku"
+              }
+            ],
+            "title": "ČÁST DRUHÁ"
           },
           {
             "filename": "od_sebe_k_sobe_012.md",
@@ -180,19 +189,22 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "od_sebe_k_sobe_013.md",
-            "xhtml": "od_sebe_k_sobe_013.xhtml",
-            "id": 12,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "od_sebe_k_sobe_013.md",
+                "xhtml": "od_sebe_k_sobe_013.xhtml",
+                "id": 12,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "osmý, devátý a desátý měsíc prvního roku"
+              }
+            ],
+            "title": "ČÁST TŘETÍ"
           },
           {
             "filename": "od_sebe_k_sobe_014.md",
@@ -204,19 +216,22 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "od_sebe_k_sobe_015.md",
-            "xhtml": "od_sebe_k_sobe_015.xhtml",
-            "id": 14,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "od_sebe_k_sobe_015.md",
+                "xhtml": "od_sebe_k_sobe_015.xhtml",
+                "id": 14,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "jedenáctý a dvanáctý měsíc prvního roku a první měsíc roku druhého"
+              }
+            ],
+            "title": "ČÁST ČTVRTÁ"
           },
           {
             "filename": "od_sebe_k_sobe_016.md",
@@ -228,19 +243,22 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "od_sebe_k_sobe_017.md",
-            "xhtml": "od_sebe_k_sobe_017.xhtml",
-            "id": 16,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "od_sebe_k_sobe_017.md",
+                "xhtml": "od_sebe_k_sobe_017.xhtml",
+                "id": 16,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "druhý, třetí a čtvrtý měsíc druhého roku"
+              }
+            ],
+            "title": "ČÁST PÁTÁ"
           },
           {
             "filename": "od_sebe_k_sobe_018.md",
@@ -252,19 +270,22 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "od_sebe_k_sobe_019.md",
-            "xhtml": "od_sebe_k_sobe_019.xhtml",
-            "id": 18,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "od_sebe_k_sobe_019.md",
+                "xhtml": "od_sebe_k_sobe_019.xhtml",
+                "id": 18,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "pátý, šestý a sedmý měsíc druhého roku"
+              }
+            ],
+            "title": "ČÁST ŠESTÁ"
           },
           {
             "filename": "od_sebe_k_sobe_020.md",
@@ -276,19 +297,22 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "od_sebe_k_sobe_021.md",
-            "xhtml": "od_sebe_k_sobe_021.xhtml",
-            "id": 20,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "od_sebe_k_sobe_021.md",
+                "xhtml": "od_sebe_k_sobe_021.xhtml",
+                "id": 20,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "osmý měsíc druhého roku"
+              }
+            ],
+            "title": "ČÁST SEDMÁ"
           },
           {
             "filename": "od_sebe_k_sobe_022.md",
@@ -300,19 +324,22 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "od_sebe_k_sobe_023.md",
-            "xhtml": "od_sebe_k_sobe_023.xhtml",
-            "id": 22,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "od_sebe_k_sobe_023.md",
+                "xhtml": "od_sebe_k_sobe_023.xhtml",
+                "id": 22,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "devátý měsíc druhého roku"
+              }
+            ],
+            "title": "ČÁST OSMÁ"
           },
           {
             "filename": "od_sebe_k_sobe_024.md",
@@ -324,19 +351,22 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "od_sebe_k_sobe_025.md",
-            "xhtml": "od_sebe_k_sobe_025.xhtml",
-            "id": 24,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "od_sebe_k_sobe_025.md",
+                "xhtml": "od_sebe_k_sobe_025.xhtml",
+                "id": 24,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "desátý měsíc druhého roku"
+              }
+            ],
+            "title": "ČÁST DEVÁTÁ"
           },
           {
             "filename": "od_sebe_k_sobe_026.md",
@@ -348,19 +378,22 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "od_sebe_k_sobe_027.md",
-            "xhtml": "od_sebe_k_sobe_027.xhtml",
-            "id": 26,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "od_sebe_k_sobe_027.md",
+                "xhtml": "od_sebe_k_sobe_027.xhtml",
+                "id": 26,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "jedenáctý měsíc druhého roku"
+              }
+            ],
+            "title": "ČÁST DESÁTÁ"
           },
           {
             "filename": "od_sebe_k_sobe_028.md",
@@ -372,7 +405,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Epilog"
           },
           {
             "filename": "od_sebe_k_sobe_029.md",
@@ -384,15 +418,16 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poděkování"
           },
           {
             "filename": "od_sebe_k_sobe_030.md",
             "xhtml": "od_sebe_k_sobe_030.xhtml",
             "id": 29,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -660,6 +695,6 @@
       "user": "books-are-next",
       "repo": "folny-od-sebe-k-sobe"
     },
-    "generatedAt": 1658849100207
+    "generatedAt": 1658853743400
   }
 }

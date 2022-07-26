@@ -8,14 +8,10 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "folny-od-sebe-k-sobe-e106b7b",
-  "revision": "e106b7b",
+  "identifier": "folny-od-sebe-k-sobe-0adfa16",
+  "revision": "0adfa16",
   "readingOrder": [
     "promo.html",
-    "od_sebe_k_sobe_001.html",
-    "od_sebe_k_sobe_002.html",
-    "od_sebe_k_sobe_003.html",
-    "od_sebe_k_sobe_004.html",
     "od_sebe_k_sobe_005.html",
     "od_sebe_k_sobe_006.html",
     "od_sebe_k_sobe_007.html",
@@ -41,11 +37,11 @@
     "od_sebe_k_sobe_027.html",
     "od_sebe_k_sobe_028.html",
     "od_sebe_k_sobe_029.html",
-    "od_sebe_k_sobe_030.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Jul 26 2022 15:26:41 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658849201569
+    "date": "Tue Jul 26 2022 16:43:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658853835436
   },
   "documents": [
     {
@@ -57,88 +53,8 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "od_sebe_k_sobe_001.html",
-      "toc": []
-    },
-    {
-      "title": "Od sebe / k sobě",
-      "file": "od_sebe_k_sobe_001.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 1,
-      "prev": "promo.html",
-      "next": "od_sebe_k_sobe_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Od sebe / k sobě",
-      "file": "od_sebe_k_sobe_002.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 2,
-      "prev": "od_sebe_k_sobe_001.html",
-      "next": "od_sebe_k_sobe_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Od sebe / k sobě",
-      "file": "od_sebe_k_sobe_003.html",
-      "words": 10,
-      "chars": 50,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 3,
-      "prev": "od_sebe_k_sobe_002.html",
-      "next": "od_sebe_k_sobe_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Od sebe / k sobě",
-      "file": "od_sebe_k_sobe_004.html",
-      "words": 96,
-      "chars": 594,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 4,
-      "prev": "od_sebe_k_sobe_003.html",
       "next": "od_sebe_k_sobe_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Pro kluka s nejkrásnějšíma hnědýma očima.Přestože si tuhle knížku nikdy nepřečte.",
@@ -147,8 +63,8 @@
       "chars": 81,
       "ideas": 1,
       "role": "chapter",
-      "order": 5,
-      "prev": "od_sebe_k_sobe_004.html",
+      "order": 1,
+      "prev": "promo.html",
       "next": "od_sebe_k_sobe_006.html",
       "toc": [
         {
@@ -167,7 +83,7 @@
       "chars": 1312,
       "ideas": 12,
       "role": "chapter",
-      "order": 6,
+      "order": 2,
       "prev": "od_sebe_k_sobe_005.html",
       "next": "od_sebe_k_sobe_007.html",
       "toc": [
@@ -187,7 +103,7 @@
       "chars": 2472,
       "ideas": 15,
       "role": "chapter",
-      "order": 7,
+      "order": 3,
       "prev": "od_sebe_k_sobe_006.html",
       "next": "od_sebe_k_sobe_008.html",
       "toc": [
@@ -207,7 +123,7 @@
       "chars": 10,
       "ideas": 1,
       "role": "chapter",
-      "order": 8,
+      "order": 4,
       "prev": "od_sebe_k_sobe_007.html",
       "next": "od_sebe_k_sobe_009.html",
       "toc": [
@@ -227,7 +143,7 @@
       "chars": 31999,
       "ideas": 169,
       "role": "chapter",
-      "order": 9,
+      "order": 5,
       "prev": "od_sebe_k_sobe_008.html",
       "next": "od_sebe_k_sobe_010.html",
       "toc": [
@@ -297,7 +213,7 @@
       "chars": 10,
       "ideas": 1,
       "role": "chapter",
-      "order": 10,
+      "order": 6,
       "prev": "od_sebe_k_sobe_009.html",
       "next": "od_sebe_k_sobe_011.html",
       "toc": [
@@ -317,7 +233,7 @@
       "chars": 31430,
       "ideas": 163,
       "role": "chapter",
-      "order": 11,
+      "order": 7,
       "prev": "od_sebe_k_sobe_010.html",
       "next": "od_sebe_k_sobe_012.html",
       "toc": [
@@ -429,7 +345,7 @@
       "chars": 10,
       "ideas": 1,
       "role": "chapter",
-      "order": 12,
+      "order": 8,
       "prev": "od_sebe_k_sobe_011.html",
       "next": "od_sebe_k_sobe_013.html",
       "toc": [
@@ -449,7 +365,7 @@
       "chars": 26290,
       "ideas": 174,
       "role": "chapter",
-      "order": 13,
+      "order": 9,
       "prev": "od_sebe_k_sobe_012.html",
       "next": "od_sebe_k_sobe_014.html",
       "toc": [
@@ -596,7 +512,7 @@
       "chars": 11,
       "ideas": 1,
       "role": "chapter",
-      "order": 14,
+      "order": 10,
       "prev": "od_sebe_k_sobe_013.html",
       "next": "od_sebe_k_sobe_015.html",
       "toc": [
@@ -616,7 +532,7 @@
       "chars": 47041,
       "ideas": 301,
       "role": "chapter",
-      "order": 15,
+      "order": 11,
       "prev": "od_sebe_k_sobe_014.html",
       "next": "od_sebe_k_sobe_016.html",
       "toc": [
@@ -756,7 +672,7 @@
       "chars": 9,
       "ideas": 1,
       "role": "chapter",
-      "order": 16,
+      "order": 12,
       "prev": "od_sebe_k_sobe_015.html",
       "next": "od_sebe_k_sobe_017.html",
       "toc": [
@@ -776,7 +692,7 @@
       "chars": 42654,
       "ideas": 235,
       "role": "chapter",
-      "order": 17,
+      "order": 13,
       "prev": "od_sebe_k_sobe_016.html",
       "next": "od_sebe_k_sobe_018.html",
       "toc": [
@@ -895,7 +811,7 @@
       "chars": 10,
       "ideas": 1,
       "role": "chapter",
-      "order": 18,
+      "order": 14,
       "prev": "od_sebe_k_sobe_017.html",
       "next": "od_sebe_k_sobe_019.html",
       "toc": [
@@ -915,7 +831,7 @@
       "chars": 50253,
       "ideas": 261,
       "role": "chapter",
-      "order": 19,
+      "order": 15,
       "prev": "od_sebe_k_sobe_018.html",
       "next": "od_sebe_k_sobe_020.html",
       "toc": [
@@ -1020,7 +936,7 @@
       "chars": 10,
       "ideas": 1,
       "role": "chapter",
-      "order": 20,
+      "order": 16,
       "prev": "od_sebe_k_sobe_019.html",
       "next": "od_sebe_k_sobe_021.html",
       "toc": [
@@ -1040,7 +956,7 @@
       "chars": 29463,
       "ideas": 125,
       "role": "chapter",
-      "order": 21,
+      "order": 17,
       "prev": "od_sebe_k_sobe_020.html",
       "next": "od_sebe_k_sobe_022.html",
       "toc": [
@@ -1110,7 +1026,7 @@
       "chars": 9,
       "ideas": 1,
       "role": "chapter",
-      "order": 22,
+      "order": 18,
       "prev": "od_sebe_k_sobe_021.html",
       "next": "od_sebe_k_sobe_023.html",
       "toc": [
@@ -1130,7 +1046,7 @@
       "chars": 46338,
       "ideas": 202,
       "role": "chapter",
-      "order": 23,
+      "order": 19,
       "prev": "od_sebe_k_sobe_022.html",
       "next": "od_sebe_k_sobe_024.html",
       "toc": [
@@ -1214,7 +1130,7 @@
       "chars": 11,
       "ideas": 1,
       "role": "chapter",
-      "order": 24,
+      "order": 20,
       "prev": "od_sebe_k_sobe_023.html",
       "next": "od_sebe_k_sobe_025.html",
       "toc": [
@@ -1234,7 +1150,7 @@
       "chars": 35605,
       "ideas": 150,
       "role": "chapter",
-      "order": 25,
+      "order": 21,
       "prev": "od_sebe_k_sobe_024.html",
       "next": "od_sebe_k_sobe_026.html",
       "toc": [
@@ -1290,7 +1206,7 @@
       "chars": 11,
       "ideas": 1,
       "role": "chapter",
-      "order": 26,
+      "order": 22,
       "prev": "od_sebe_k_sobe_025.html",
       "next": "od_sebe_k_sobe_027.html",
       "toc": [
@@ -1310,7 +1226,7 @@
       "chars": 26984,
       "ideas": 116,
       "role": "chapter",
-      "order": 27,
+      "order": 23,
       "prev": "od_sebe_k_sobe_026.html",
       "next": "od_sebe_k_sobe_028.html",
       "toc": [
@@ -1373,7 +1289,7 @@
       "chars": 3458,
       "ideas": 22,
       "role": "chapter",
-      "order": 28,
+      "order": 24,
       "prev": "od_sebe_k_sobe_027.html",
       "next": "od_sebe_k_sobe_029.html",
       "toc": [
@@ -1393,9 +1309,9 @@
       "chars": 748,
       "ideas": 5,
       "role": "chapter",
-      "order": 29,
+      "order": 25,
       "prev": "od_sebe_k_sobe_028.html",
-      "next": "od_sebe_k_sobe_030.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1407,20 +1323,20 @@
       ]
     },
     {
-      "title": "Od sebe / k sobě",
-      "file": "od_sebe_k_sobe_030.html",
-      "words": 50,
-      "chars": 325,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 30,
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 142,
+      "chars": 872,
+      "ideas": 16,
+      "role": "about",
+      "order": null,
       "prev": "od_sebe_k_sobe_029.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -1429,14 +1345,14 @@
   ],
   "totals": {
     "all": {
-      "words": 63835,
-      "chars": 377239,
-      "ideas": 1990
+      "words": 63818,
+      "chars": 377137,
+      "ideas": 1981
     },
     "chapters": {
-      "words": 63825,
-      "chars": 377198,
-      "ideas": 1985
+      "words": 63667,
+      "chars": 376229,
+      "ideas": 1961
     }
   }
 }
