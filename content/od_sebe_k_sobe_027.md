@@ -1,11 +1,9 @@
 ---
-title: ''
+title: jedenáctý měsíc druhého roku
 contentType: prose
 ---
 
 <section>
-
-_jedenáctý měsíc druhého roku_
 
 ## Moje francouzská záležitost
 

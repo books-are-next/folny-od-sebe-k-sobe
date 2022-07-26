@@ -1,11 +1,9 @@
 ---
-title: ''
+title: osmý měsíc druhého roku
 contentType: prose
 ---
 
 <section>
-
-_osmý měsíc druhého roku_
 
 ## O Lisabonu a zdejších lidech
 

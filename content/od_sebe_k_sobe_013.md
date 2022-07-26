@@ -1,11 +1,9 @@
 ---
-title: ''
+title: "osmý, devátý a\_desátý měsíc prvního roku"
 contentType: prose
 ---
 
 <section>
-
-_osmý, devátý a desátý měsíc prvního roku_
 
 ## V noci v Paříži
 
