@@ -1,14 +1,18 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Od sebe / k sobě",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Jan Folný",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-02-18T00:00:00.000Z"
+      "modified": "2021-02-18T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp",
+      "contentType": "prose"
     },
     "elements": {
-      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL\nMLP_venovani",
       "subtitle": "",
       "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
       "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
@@ -20,11 +24,11 @@
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
-      "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
-      "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
     },
@@ -32,6 +36,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "od_sebe_k_sobe_001.md",
@@ -42,7 +47,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_002.md",
@@ -53,7 +59,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_003.md",
@@ -64,7 +71,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_004.md",
@@ -75,7 +83,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_005.md",
@@ -86,7 +95,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_006.md",
@@ -97,7 +107,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_007.md",
@@ -108,7 +119,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_008.md",
@@ -119,7 +131,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_009.md",
@@ -130,7 +143,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_010.md",
@@ -141,7 +155,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_011.md",
@@ -152,7 +167,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_012.md",
@@ -163,7 +179,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_013.md",
@@ -174,7 +191,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_014.md",
@@ -185,7 +203,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_015.md",
@@ -196,7 +215,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_016.md",
@@ -207,7 +227,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_017.md",
@@ -218,7 +239,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_018.md",
@@ -229,7 +251,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_019.md",
@@ -240,7 +263,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_020.md",
@@ -251,7 +275,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_021.md",
@@ -262,7 +287,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_022.md",
@@ -273,7 +299,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_023.md",
@@ -284,7 +311,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_024.md",
@@ -295,7 +323,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_025.md",
@@ -306,7 +335,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_026.md",
@@ -317,7 +347,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_027.md",
@@ -328,7 +359,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_028.md",
@@ -339,7 +371,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_029.md",
@@ -350,7 +383,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_030.md",
@@ -361,7 +395,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -401,7 +436,7 @@
         "xhtml": "od_sebe_k_sobe_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pro kluka s nejkrásnějšíma hnědýma očima\\.Přestože si tuhle knížku nikdy nepřečte\\.",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_005.md",
         "xhtml": "od_sebe_k_sobe_005.xhtml"
@@ -425,7 +460,7 @@
         "xhtml": "od_sebe_k_sobe_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "druhý, třetí a čtvrtý měsíc prvního roku",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_009.md",
         "xhtml": "od_sebe_k_sobe_009.xhtml"
@@ -437,7 +472,7 @@
         "xhtml": "od_sebe_k_sobe_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "pátý, šestý a sedmý měsíc prvního roku",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_011.md",
         "xhtml": "od_sebe_k_sobe_011.xhtml"
@@ -449,7 +484,7 @@
         "xhtml": "od_sebe_k_sobe_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "osmý, devátý a desátý měsíc prvního roku",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_013.md",
         "xhtml": "od_sebe_k_sobe_013.xhtml"
@@ -461,7 +496,7 @@
         "xhtml": "od_sebe_k_sobe_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "jedenáctý a dvanáctý měsíc prvního roku a první měsíc roku druhého",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_015.md",
         "xhtml": "od_sebe_k_sobe_015.xhtml"
@@ -473,7 +508,7 @@
         "xhtml": "od_sebe_k_sobe_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "druhý, třetí a čtvrtý měsíc druhého roku",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_017.md",
         "xhtml": "od_sebe_k_sobe_017.xhtml"
@@ -485,7 +520,7 @@
         "xhtml": "od_sebe_k_sobe_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "pátý, šestý a sedmý měsíc druhého roku",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_019.md",
         "xhtml": "od_sebe_k_sobe_019.xhtml"
@@ -497,7 +532,7 @@
         "xhtml": "od_sebe_k_sobe_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "osmý měsíc druhého roku",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_021.md",
         "xhtml": "od_sebe_k_sobe_021.xhtml"
@@ -509,7 +544,7 @@
         "xhtml": "od_sebe_k_sobe_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "devátý měsíc druhého roku",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_023.md",
         "xhtml": "od_sebe_k_sobe_023.xhtml"
@@ -521,7 +556,7 @@
         "xhtml": "od_sebe_k_sobe_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "desátý měsíc druhého roku",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_025.md",
         "xhtml": "od_sebe_k_sobe_025.xhtml"
@@ -533,7 +568,7 @@
         "xhtml": "od_sebe_k_sobe_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "jedenáctý měsíc druhého roku",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_027.md",
         "xhtml": "od_sebe_k_sobe_027.xhtml"
@@ -625,6 +660,6 @@
       "user": "books-are-next",
       "repo": "folny-od-sebe-k-sobe"
     },
-    "generatedAt": 1658413364446
+    "generatedAt": 1658849100207
   }
 }

@@ -1,11 +1,9 @@
 ---
-title: ''
+title: "druhý, třetí a\_čtvrtý měsíc druhého roku"
 contentType: prose
 ---
 
 <section>
-
-_druhý, třetí a čtvrtý měsíc druhého roku_
 
 ## Démoni
 

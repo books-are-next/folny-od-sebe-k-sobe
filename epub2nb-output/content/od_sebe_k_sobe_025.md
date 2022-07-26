@@ -1,11 +1,9 @@
 ---
-title: ''
+title: desátý měsíc druhého roku
 contentType: prose
 ---
 
 <section>
-
-_desátý měsíc druhého roku_
 
 ## Na kroužku portugalský poezie
 

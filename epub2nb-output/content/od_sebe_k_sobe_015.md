@@ -1,12 +1,9 @@
 ---
-title: ''
+title: "jedenáctý a\_dvanáctý měsíc prvního roku a\_první měsíc roku druhého"
 contentType: prose
 ---
 
 <section>
-
-_jedenáctý a dvanáctý měsíc prvního roku  
-a první měsíc roku druhého_
 
 ## Cestou do československého obchodu
 
