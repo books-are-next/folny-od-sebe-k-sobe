@@ -1,9 +1,11 @@
 ---
-title: "pátý, šestý a\_sedmý měsíc druhého roku"
+title: ''
 contentType: prose
 ---
 
 <section>
+
+_pátý, šestý a sedmý měsíc druhého roku_
 
 ## Nekonečný prodloužený víkend
 

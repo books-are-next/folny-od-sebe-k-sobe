@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "folny-od-sebe-k-sobe-0adfa16",
-  "revision": "0adfa16",
+  "identifier": "folny-od-sebe-k-sobe-8389cc6",
+  "revision": "8389cc6",
   "readingOrder": [
     "promo.html",
     "od_sebe_k_sobe_005.html",
@@ -40,8 +40,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Jul 26 2022 16:43:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658853835436
+    "date": "Tue Jul 26 2022 17:01:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658854895625
   },
   "documents": [
     {
@@ -57,11 +57,11 @@
       "toc": []
     },
     {
-      "title": "Pro kluka s nejkrásnějšíma hnědýma očima.Přestože si tuhle knížku nikdy nepřečte.",
+      "title": "Od sebe / k sobě",
       "file": "od_sebe_k_sobe_005.html",
-      "words": 11,
+      "words": 12,
       "chars": 81,
-      "ideas": 1,
+      "ideas": 2,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -70,7 +70,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pro kluka s nejkrásnějšíma hnědýma očima.Přestože si tuhle knížku nikdy nepřečte.",
+          "name": null,
           "id": null,
           "children": []
         }
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "title": "druhý, třetí a čtvrtý měsíc prvního roku",
+      "title": "Od sebe / k sobě",
       "file": "od_sebe_k_sobe_009.html",
       "words": 5416,
       "chars": 31999,
@@ -150,7 +150,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "druhý, třetí a čtvrtý měsíc prvního roku",
+          "name": null,
           "id": null,
           "children": [
             {
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "title": "pátý, šestý a sedmý měsíc prvního roku",
+      "title": "Od sebe / k sobě",
       "file": "od_sebe_k_sobe_011.html",
       "words": 5236,
       "chars": 31430,
@@ -240,7 +240,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "pátý, šestý a sedmý měsíc prvního roku",
+          "name": null,
           "id": null,
           "children": [
             {
@@ -359,7 +359,7 @@
       ]
     },
     {
-      "title": "osmý, devátý a desátý měsíc prvního roku",
+      "title": "Od sebe / k sobě",
       "file": "od_sebe_k_sobe_013.html",
       "words": 4474,
       "chars": 26290,
@@ -372,7 +372,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "osmý, devátý a desátý měsíc prvního roku",
+          "name": null,
           "id": null,
           "children": [
             {
@@ -526,11 +526,11 @@
       ]
     },
     {
-      "title": "jedenáctý a dvanáctý měsíc prvního roku a první měsíc roku druhého",
+      "title": "Od sebe / k sobě",
       "file": "od_sebe_k_sobe_015.html",
       "words": 7904,
-      "chars": 47041,
-      "ideas": 301,
+      "chars": 47040,
+      "ideas": 302,
       "role": "chapter",
       "order": 11,
       "prev": "od_sebe_k_sobe_014.html",
@@ -539,7 +539,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "jedenáctý a dvanáctý měsíc prvního roku a první měsíc roku druhého",
+          "name": null,
           "id": null,
           "children": [
             {
@@ -686,7 +686,7 @@
       ]
     },
     {
-      "title": "druhý, třetí a čtvrtý měsíc druhého roku",
+      "title": "Od sebe / k sobě",
       "file": "od_sebe_k_sobe_017.html",
       "words": 7159,
       "chars": 42654,
@@ -699,7 +699,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "druhý, třetí a čtvrtý měsíc druhého roku",
+          "name": null,
           "id": null,
           "children": [
             {
@@ -825,7 +825,7 @@
       ]
     },
     {
-      "title": "pátý, šestý a sedmý měsíc druhého roku",
+      "title": "Od sebe / k sobě",
       "file": "od_sebe_k_sobe_019.html",
       "words": 8440,
       "chars": 50253,
@@ -838,7 +838,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "pátý, šestý a sedmý měsíc druhého roku",
+          "name": null,
           "id": null,
           "children": [
             {
@@ -950,7 +950,7 @@
       ]
     },
     {
-      "title": "osmý měsíc druhého roku",
+      "title": "Od sebe / k sobě",
       "file": "od_sebe_k_sobe_021.html",
       "words": 4991,
       "chars": 29463,
@@ -963,7 +963,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "osmý měsíc druhého roku",
+          "name": null,
           "id": null,
           "children": [
             {
@@ -1040,7 +1040,7 @@
       ]
     },
     {
-      "title": "devátý měsíc druhého roku",
+      "title": "Od sebe / k sobě",
       "file": "od_sebe_k_sobe_023.html",
       "words": 7932,
       "chars": 46338,
@@ -1053,7 +1053,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "devátý měsíc druhého roku",
+          "name": null,
           "id": null,
           "children": [
             {
@@ -1144,7 +1144,7 @@
       ]
     },
     {
-      "title": "desátý měsíc druhého roku",
+      "title": "Od sebe / k sobě",
       "file": "od_sebe_k_sobe_025.html",
       "words": 6032,
       "chars": 35605,
@@ -1157,7 +1157,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "desátý měsíc druhého roku",
+          "name": null,
           "id": null,
           "children": [
             {
@@ -1220,7 +1220,7 @@
       ]
     },
     {
-      "title": "jedenáctý měsíc druhého roku",
+      "title": "Od sebe / k sobě",
       "file": "od_sebe_k_sobe_027.html",
       "words": 4663,
       "chars": 26984,
@@ -1233,7 +1233,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "jedenáctý měsíc druhého roku",
+          "name": null,
           "id": null,
           "children": [
             {
@@ -1345,14 +1345,14 @@
   ],
   "totals": {
     "all": {
-      "words": 63818,
-      "chars": 377137,
-      "ideas": 1981
+      "words": 63819,
+      "chars": 377136,
+      "ideas": 1983
     },
     "chapters": {
-      "words": 63667,
-      "chars": 376229,
-      "ideas": 1961
+      "words": 63668,
+      "chars": 376228,
+      "ideas": 1963
     }
   }
 }

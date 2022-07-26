@@ -12,7 +12,7 @@
       "contentType": "prose"
     },
     "elements": {
-      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL\nMLP_venovani",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
       "subtitle": "",
       "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
       "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
@@ -96,8 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_006.md",
@@ -109,8 +109,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Od sebe / k sobě"
+            "title": "Od sebe / k sobě",
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_007.md",
@@ -122,8 +122,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Prolog"
+            "title": "Prolog",
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_008.md",
@@ -135,6 +135,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "ČÁST PRVNÍ",
             "children": [
               {
                 "filename": "od_sebe_k_sobe_009.md",
@@ -146,11 +147,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "druhý, třetí a čtvrtý měsíc prvního roku"
+                "title": "druhý, třetí a čtvrtý měsíc prvního roku",
+                "children": []
               }
-            ],
-            "title": "ČÁST PRVNÍ"
+            ]
           },
           {
             "filename": "od_sebe_k_sobe_010.md",
@@ -162,6 +162,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "ČÁST DRUHÁ",
             "children": [
               {
                 "filename": "od_sebe_k_sobe_011.md",
@@ -173,11 +174,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "pátý, šestý a sedmý měsíc prvního roku"
+                "title": "pátý, šestý a sedmý měsíc prvního roku",
+                "children": []
               }
-            ],
-            "title": "ČÁST DRUHÁ"
+            ]
           },
           {
             "filename": "od_sebe_k_sobe_012.md",
@@ -189,6 +189,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "ČÁST TŘETÍ",
             "children": [
               {
                 "filename": "od_sebe_k_sobe_013.md",
@@ -200,11 +201,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "osmý, devátý a desátý měsíc prvního roku"
+                "title": "osmý, devátý a desátý měsíc prvního roku",
+                "children": []
               }
-            ],
-            "title": "ČÁST TŘETÍ"
+            ]
           },
           {
             "filename": "od_sebe_k_sobe_014.md",
@@ -216,6 +216,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "ČÁST ČTVRTÁ",
             "children": [
               {
                 "filename": "od_sebe_k_sobe_015.md",
@@ -227,11 +228,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "jedenáctý a dvanáctý měsíc prvního roku a první měsíc roku druhého"
+                "title": "jedenáctý a dvanáctý měsíc prvního roku a první měsíc roku druhého",
+                "children": []
               }
-            ],
-            "title": "ČÁST ČTVRTÁ"
+            ]
           },
           {
             "filename": "od_sebe_k_sobe_016.md",
@@ -243,6 +243,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "ČÁST PÁTÁ",
             "children": [
               {
                 "filename": "od_sebe_k_sobe_017.md",
@@ -254,11 +255,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "druhý, třetí a čtvrtý měsíc druhého roku"
+                "title": "druhý, třetí a čtvrtý měsíc druhého roku",
+                "children": []
               }
-            ],
-            "title": "ČÁST PÁTÁ"
+            ]
           },
           {
             "filename": "od_sebe_k_sobe_018.md",
@@ -270,6 +270,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "ČÁST ŠESTÁ",
             "children": [
               {
                 "filename": "od_sebe_k_sobe_019.md",
@@ -281,11 +282,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "pátý, šestý a sedmý měsíc druhého roku"
+                "title": "pátý, šestý a sedmý měsíc druhého roku",
+                "children": []
               }
-            ],
-            "title": "ČÁST ŠESTÁ"
+            ]
           },
           {
             "filename": "od_sebe_k_sobe_020.md",
@@ -297,6 +297,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "ČÁST SEDMÁ",
             "children": [
               {
                 "filename": "od_sebe_k_sobe_021.md",
@@ -308,11 +309,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "osmý měsíc druhého roku"
+                "title": "osmý měsíc druhého roku",
+                "children": []
               }
-            ],
-            "title": "ČÁST SEDMÁ"
+            ]
           },
           {
             "filename": "od_sebe_k_sobe_022.md",
@@ -324,6 +324,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "ČÁST OSMÁ",
             "children": [
               {
                 "filename": "od_sebe_k_sobe_023.md",
@@ -335,11 +336,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "devátý měsíc druhého roku"
+                "title": "devátý měsíc druhého roku",
+                "children": []
               }
-            ],
-            "title": "ČÁST OSMÁ"
+            ]
           },
           {
             "filename": "od_sebe_k_sobe_024.md",
@@ -351,6 +351,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "ČÁST DEVÁTÁ",
             "children": [
               {
                 "filename": "od_sebe_k_sobe_025.md",
@@ -362,11 +363,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "desátý měsíc druhého roku"
+                "title": "desátý měsíc druhého roku",
+                "children": []
               }
-            ],
-            "title": "ČÁST DEVÁTÁ"
+            ]
           },
           {
             "filename": "od_sebe_k_sobe_026.md",
@@ -378,6 +378,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "ČÁST DESÁTÁ",
             "children": [
               {
                 "filename": "od_sebe_k_sobe_027.md",
@@ -389,11 +390,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "jedenáctý měsíc druhého roku"
+                "title": "jedenáctý měsíc druhého roku",
+                "children": []
               }
-            ],
-            "title": "ČÁST DESÁTÁ"
+            ]
           },
           {
             "filename": "od_sebe_k_sobe_028.md",
@@ -405,8 +405,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Epilog"
+            "title": "Epilog",
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_029.md",
@@ -418,8 +418,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Poděkování"
+            "title": "Poděkování",
+            "children": []
           },
           {
             "filename": "od_sebe_k_sobe_030.md",
@@ -471,7 +471,7 @@
         "xhtml": "od_sebe_k_sobe_004.xhtml"
       },
       {
-        "titleSuggest": "Pro kluka s nejkrásnějšíma hnědýma očima\\.Přestože si tuhle knížku nikdy nepřečte\\.",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_005.md",
         "xhtml": "od_sebe_k_sobe_005.xhtml"
@@ -495,7 +495,7 @@
         "xhtml": "od_sebe_k_sobe_008.xhtml"
       },
       {
-        "titleSuggest": "druhý, třetí a čtvrtý měsíc prvního roku",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_009.md",
         "xhtml": "od_sebe_k_sobe_009.xhtml"
@@ -507,7 +507,7 @@
         "xhtml": "od_sebe_k_sobe_010.xhtml"
       },
       {
-        "titleSuggest": "pátý, šestý a sedmý měsíc prvního roku",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_011.md",
         "xhtml": "od_sebe_k_sobe_011.xhtml"
@@ -519,7 +519,7 @@
         "xhtml": "od_sebe_k_sobe_012.xhtml"
       },
       {
-        "titleSuggest": "osmý, devátý a desátý měsíc prvního roku",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_013.md",
         "xhtml": "od_sebe_k_sobe_013.xhtml"
@@ -531,7 +531,7 @@
         "xhtml": "od_sebe_k_sobe_014.xhtml"
       },
       {
-        "titleSuggest": "jedenáctý a dvanáctý měsíc prvního roku a první měsíc roku druhého",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_015.md",
         "xhtml": "od_sebe_k_sobe_015.xhtml"
@@ -543,7 +543,7 @@
         "xhtml": "od_sebe_k_sobe_016.xhtml"
       },
       {
-        "titleSuggest": "druhý, třetí a čtvrtý měsíc druhého roku",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_017.md",
         "xhtml": "od_sebe_k_sobe_017.xhtml"
@@ -555,7 +555,7 @@
         "xhtml": "od_sebe_k_sobe_018.xhtml"
       },
       {
-        "titleSuggest": "pátý, šestý a sedmý měsíc druhého roku",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_019.md",
         "xhtml": "od_sebe_k_sobe_019.xhtml"
@@ -567,7 +567,7 @@
         "xhtml": "od_sebe_k_sobe_020.xhtml"
       },
       {
-        "titleSuggest": "osmý měsíc druhého roku",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_021.md",
         "xhtml": "od_sebe_k_sobe_021.xhtml"
@@ -579,7 +579,7 @@
         "xhtml": "od_sebe_k_sobe_022.xhtml"
       },
       {
-        "titleSuggest": "devátý měsíc druhého roku",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_023.md",
         "xhtml": "od_sebe_k_sobe_023.xhtml"
@@ -591,7 +591,7 @@
         "xhtml": "od_sebe_k_sobe_024.xhtml"
       },
       {
-        "titleSuggest": "desátý měsíc druhého roku",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_025.md",
         "xhtml": "od_sebe_k_sobe_025.xhtml"
@@ -603,7 +603,7 @@
         "xhtml": "od_sebe_k_sobe_026.xhtml"
       },
       {
-        "titleSuggest": "jedenáctý měsíc druhého roku",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_027.md",
         "xhtml": "od_sebe_k_sobe_027.xhtml"
@@ -695,6 +695,6 @@
       "user": "books-are-next",
       "repo": "folny-od-sebe-k-sobe"
     },
-    "generatedAt": 1658853743400
+    "generatedAt": 1658854805127
   }
 }

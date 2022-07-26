@@ -1,9 +1,11 @@
 ---
-title: "pátý, šestý a\_sedmý měsíc prvního roku"
+title: ''
 contentType: prose
 ---
 
 <section>
+
+_pátý, šestý a sedmý měsíc prvního roku_
 
 ## Pracovní rutina
 
