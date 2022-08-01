@@ -9,7 +9,8 @@
       "modified": "2021-02-18T00:00:00.000Z",
       "edition": "beletrie",
       "publisherShort": "mkp",
-      "contentType": "prose"
+      "contentType": "prose",
+      "isbn": "978-80-274-2691-1"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -472,7 +473,7 @@
         "xhtml": "od_sebe_k_sobe_004.xhtml"
       },
       {
-        "titleSuggest": "Pro kluka s nejkrásnějšíma hnědýma očima\\.Přestože si tuhle knížku nikdy nepřečte\\.",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_005.md",
         "xhtml": "od_sebe_k_sobe_005.xhtml"
@@ -496,7 +497,7 @@
         "xhtml": "od_sebe_k_sobe_008.xhtml"
       },
       {
-        "titleSuggest": "druhý, třetí a čtvrtý měsíc prvního roku",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_009.md",
         "xhtml": "od_sebe_k_sobe_009.xhtml"
@@ -508,7 +509,7 @@
         "xhtml": "od_sebe_k_sobe_010.xhtml"
       },
       {
-        "titleSuggest": "pátý, šestý a sedmý měsíc prvního roku",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_011.md",
         "xhtml": "od_sebe_k_sobe_011.xhtml"
@@ -520,7 +521,7 @@
         "xhtml": "od_sebe_k_sobe_012.xhtml"
       },
       {
-        "titleSuggest": "osmý, devátý a desátý měsíc prvního roku",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_013.md",
         "xhtml": "od_sebe_k_sobe_013.xhtml"
@@ -532,7 +533,7 @@
         "xhtml": "od_sebe_k_sobe_014.xhtml"
       },
       {
-        "titleSuggest": "jedenáctý a dvanáctý měsíc prvního roku a první měsíc roku druhého",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_015.md",
         "xhtml": "od_sebe_k_sobe_015.xhtml"
@@ -544,7 +545,7 @@
         "xhtml": "od_sebe_k_sobe_016.xhtml"
       },
       {
-        "titleSuggest": "druhý, třetí a čtvrtý měsíc druhého roku",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_017.md",
         "xhtml": "od_sebe_k_sobe_017.xhtml"
@@ -556,7 +557,7 @@
         "xhtml": "od_sebe_k_sobe_018.xhtml"
       },
       {
-        "titleSuggest": "pátý, šestý a sedmý měsíc druhého roku",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_019.md",
         "xhtml": "od_sebe_k_sobe_019.xhtml"
@@ -568,7 +569,7 @@
         "xhtml": "od_sebe_k_sobe_020.xhtml"
       },
       {
-        "titleSuggest": "osmý měsíc druhého roku",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_021.md",
         "xhtml": "od_sebe_k_sobe_021.xhtml"
@@ -580,7 +581,7 @@
         "xhtml": "od_sebe_k_sobe_022.xhtml"
       },
       {
-        "titleSuggest": "devátý měsíc druhého roku",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_023.md",
         "xhtml": "od_sebe_k_sobe_023.xhtml"
@@ -592,7 +593,7 @@
         "xhtml": "od_sebe_k_sobe_024.xhtml"
       },
       {
-        "titleSuggest": "desátý měsíc druhého roku",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_025.md",
         "xhtml": "od_sebe_k_sobe_025.xhtml"
@@ -604,7 +605,7 @@
         "xhtml": "od_sebe_k_sobe_026.xhtml"
       },
       {
-        "titleSuggest": "jedenáctý měsíc druhého roku",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "od_sebe_k_sobe_027.md",
         "xhtml": "od_sebe_k_sobe_027.xhtml"
@@ -696,6 +697,6 @@
       "user": "books-are-next",
       "repo": "folny-od-sebe-k-sobe"
     },
-    "generatedAt": 1658853743400
+    "generatedAt": 1658854805127
   }
 }
