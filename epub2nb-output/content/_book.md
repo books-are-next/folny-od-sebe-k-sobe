@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2691-1
 readingOrder:
   - promo.html
   - od_sebe_k_sobe_005.html

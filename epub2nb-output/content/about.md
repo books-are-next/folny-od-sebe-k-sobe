@@ -8,7 +8,8 @@ Od sebe / k sobě**
 Redakce Markéta Teuchnerová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
-V MKP 2. elektronické vydání z 26. 7. 2022.
+ISBN 978-80-274-2691-1 (webová kniha)  
+V MKP 2. elektronické vydání z 1. 8. 2022.
 
 ***
 
