@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "folny-od-sebe-k-sobe-54a9464",
-  "revision": "54a9464",
+  "identifier": "folny-od-sebe-k-sobe-7a5ae1c",
+  "revision": "7a5ae1c",
   "readingOrder": [
     "promo.html",
     "od_sebe_k_sobe_005.html",
@@ -40,8 +40,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 18:34:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664908473751
+    "date": "Tue Oct 04 2022 22:51:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664923903710
   },
   "documents": [
     {
