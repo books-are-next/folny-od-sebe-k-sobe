@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "folny-od-sebe-k-sobe-cc0958a",
-  "revision": "cc0958a",
+  "identifier": "folny-od-sebe-k-sobe-147ba79",
+  "revision": "147ba79",
   "readingOrder": [
     "promo.html",
     "od_sebe_k_sobe_005.html",
@@ -40,8 +40,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:54:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150880280
+    "date": "Mon Oct 10 2022 15:47:02 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416822978
   },
   "documents": [
     {
@@ -1326,7 +1326,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 144,
-      "chars": 909,
+      "chars": 910,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -1346,7 +1346,7 @@
   "totals": {
     "all": {
       "words": 63821,
-      "chars": 377173,
+      "chars": 377174,
       "ideas": 1982
     },
     "chapters": {
